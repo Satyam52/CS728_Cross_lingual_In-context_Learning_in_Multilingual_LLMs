@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Irates (in Armenian Իրատես) (stylized as de facto in Latin alphabet) is an Armenian language newspaper published by "Tesaket Ltd" in Armenia twice a week, Tuesdays and Fridays.}}.
+What is the most appropriate relation between {{Irates}} and {{Armenia}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

@@ -1,0 +1,201 @@
+actual	generated
+has type	instance of
+from country	country
+located in	country
+birth place	country
+located in	located in
+located in	country
+organization has member	music
+birth place	from country
+from country	Athlete
+has type	Album
+has author	instance of
+birth place	country
+birth place	Artist
+located in	country
+located in	located in
+has author	writer
+movie has director	director
+headquarters	located in
+headquarters	Armenian
+has author	author
+headquarters	country
+located in	country
+has occupation	artist
+has genre	song
+has author	author
+has type	airport
+has population	population
+organization has member	no relation
+movie has director	director
+has population	Village
+has genre	genre
+movie has director	film
+has occupation	occupation
+has author	occupation
+has type	rifle
+located in	country
+birth place	Artist
+from country	country
+from country	No
+organization has member	band
+is member of	Athlete
+birth place	country
+has education	Educational Institution
+has education	director
+located in	located in
+headquarters	No
+organization has member	band
+located in	country
+has author	entertainment
+from country	Republic of Timor
+has type	group
+has author	author
+located in	country
+has child	occupation
+has occupation	occupation
+birth place	located in
+birth place	 fields is football
+is member of	Athlete
+birth place	located in
+located in	country
+has genre	genre
+is member of	significant
+has education	university of chicago
+has author	publisher
+headquarters	country
+birth place	No
+is member of	Athlete
+located in	United States
+from country	country of origin
+has occupation	film producer
+organization has member	Artist
+located in	country
+has population	number of inhabitants
+headquarters	headquarters
+won award	his retirement
+from country	country
+has author	has author
+has type	protected
+has genre	occupation
+from country	country
+has education	located in
+has population	population
+has type	album
+organization has member	band
+no relation	director
+birth place	country
+has sibling	member of
+movie has director	director
+has sibling	given location
+birth place	located in
+has type	Album
+has spouse	fiancé
+has education	has occupation
+has type	research
+has occupation	occupation
+organization has member	Artist
+has author	author
+from country	located in
+event year	event year
+has occupation	occupation
+has occupation	occupation
+organization has member	band
+birth place	located in
+has author	authors
+from country	country of citizenship
+has type	instance of
+has type	album
+located in	country
+headquarters	located in
+organization has founder	founder
+organization has member	American
+has occupation	broadcast journalist
+located in	country
+organization has member	band
+has type	event year
+has author	author
+organization has member	DJ
+has occupation	occupation
+has parent	noble family
+has occupation	occupation
+has author	creator
+from country	Artist
+birth place	city
+headquarters	location in
+has type	city
+has author	author
+located in	country
+has occupation	Artist
+has education	located in
+has author	writer
+has genre	instance of
+has occupation	occupation
+has author	writer
+organization has member	instrument
+has genre	record label
+has population	population
+has author	occupation
+has occupation	occupation
+from country	country
+has type	Album
+birth place	country
+movie has director	director
+has education	alumni
+birth place	located in
+has genre	music
+located in	country
+has spouse	noblewoman
+located in	World War II
+has population	city
+has occupation	actor
+organization has member	music
+headquarters	country
+has type	Album
+birth place	Artist
+organization leader	member
+has genre	genre
+has population	Sweden
+has population	population
+organization has founder	investment firm
+has population	population
+from country	No
+has author	Artist
+has child	occupation
+organization has member	Artist
+has occupation	Artist
+organization has founder	organization
+headquarters	not mentioned
+won award	director
+organization has founder	founder
+birth place	born
+headquarters	country
+has population	population
+located in	Shanghai
+first product	product
+from country	occupation
+has sibling	brother
+birth place	Artist
+has type	compilation
+birth place	location
+has genre	instance of
+has type	film
+has author	Artist
+has type	Newcastle
+birth place	place of birth
+has type	Album
+headquarters	located in
+located in	located in
+located in	located in
+has population	population
+has type	instance of
+from country	No
+organization leader	office Holder
+has author	author
+located in	country
+movie has director	director
+birth place	Paris
+starring	director
+organization has founder	name
+won award	winner
+movie has director	film

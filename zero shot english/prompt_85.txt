@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Irwin Schatz wrote that he was "astounded" that "physicians allow patients with potentially fatal disease to remain untreated when effective therapy is available." Brian Schatz said that his father didn't talk about the letter, but did influence him to pursue the public good.}}.
+What is the most appropriate relation between {{Irwin Schatz}} and {{Brian}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

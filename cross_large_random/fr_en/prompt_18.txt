@@ -1,0 +1,51 @@
+Considérez un domaine où seules les relations suivantes peuvent exister entre deux entités : 
+
+{{film réalisé par}}
+{{est situé(e) à}}
+{{organisation a pour membre}}
+{{mettant en vedette}}
+{{a un type}}
+{{leader de l'organisation}}
+{{a une éducation}}
+{{du pays}}
+{{est membre de}}
+{{a une population}}
+{{a remporté un prix}}
+{{année de l'événement}}
+{{a une occupation}}
+{{a pour auteur}}
+{{aucune relation}}
+{{organisation fondée par}}
+{{a un genre}}
+{{a un frère ou une sœur}}
+{{a un conjoint}}
+{{premier produit}}
+{{siège social}}
+{{lieu de naissance}}
+{{a un parent}}
+{{a pour enfant}}
+
+Étant donné les exemples suivants,
+
+Déclaration: {{Florvil Hyppolite, né le 2 mars 1828 à Cap-Haïtien et mort le 24 mars 1896 à Port-au-Prince, est un militaire et homme politique haïtien qui fut président de la République du 17 octobre 1889 jusqu'à sa mort le 24 mars 1896.}}
+{{lieu de naissance}} décrit le mieux la relation entre {{Florvil Hyppolite}} et {{Port-au-Prince}}
+
+Déclaration: {{Gottlieben est une commune suisse du canton de Thurgovie, située dans le district de Kreuzlingen. Gottlieben est l’une des plus petites communes de Suisse.}}
+{{est situé(e) à}} décrit le mieux la relation entre {{Gottlieben}} et {{Suisse}}
+
+Déclaration: {{Herbert Wehner, né à Dresde le 11 juillet 1906 et mort à Bonn le 19 janvier 1990, est un homme politique allemand.}}
+{{lieu de naissance}} décrit le mieux la relation entre {{Herbert Wehner}} et {{Dresde}}
+
+Déclaration: {{Mutya Keisha Siobhan (précédemment Sugababes) est un groupe britannique fondé à Londres. Ses membres sont Mutya Buena, Keisha Buchanan et Siobhán Donaghy, les membres fondatrices du groupe Sugababes.}}
+{{organisation a pour membre}} décrit le mieux la relation entre {{Mutya Keisha Siobhan}} et {{Keisha Buchanan}}
+
+Déclaration: {{Yu RongguangDonnie YenJean WangTsang Sze ManYuen Shun-Yi Pour plus de détails, voir Fiche technique et Distribution Iron Monkey ou Iron Monkey: La légende démasquée au Québec (Siu nin Wong Fei Hung ji: Tit Ma Lau) est un film hongkongais réalisé par Yuen Woo-ping, sorti en 1993.}}
+{{film réalisé par}} décrit le mieux la relation entre {{Iron Monkey}} et {{Yuen Woo-ping}}
+
+
+
+Statement: {{The Donegal People's Press (formerly Donegal People's Press and Derry and Tyrone News) is a weekly local newspaper in north County Donegal, Ireland.}}
+
+
+What relation best describes the relation between {{Donegal People's Press}} and {{County Donegal}} from the list of relations given above?
+    

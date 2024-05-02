@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Ramirez won the nonpartisan runoff election for mayor in 1990; he defeated Maria Guadalupe "Bebe" Zuñiga (1933–2017), the wife of a former city council member, Carlos Alberto Zuñiga, Sr. (1927–2011), and the sister of J. C. Treviño, Jr. (1930–2007), a veteran trustee of Laredo Community College.}}.
+What is the most appropriate relation between {{Maria Guadalupe "Bebe" Zuñiga}} and {{J. C. Treviño, Jr.}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

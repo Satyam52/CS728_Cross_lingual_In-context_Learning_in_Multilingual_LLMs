@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Mohamed Sylla (born 10 September 1994), better known by his stage name MHD, is a French rapper from Paris, who is known for blending trap music with music of West Africa; a genre he coined as "Afro Trap".}}.
+What is the most appropriate relation between {{MHD}} and {{rapper}} from the following options?
+
+{{located in}}
+{{has population}}
+{{has parent}}
+{{from country}}
+{{movie has director}}
+{{won award}}
+{{has genre}}
+{{organization leader}}
+{{is member of}}
+{{first product}}
+{{no relation}}
+{{has occupation}}
+{{has education}}
+{{starring}}
+{{birth place}}
+{{has child}}
+{{has type}}
+{{organization has founder}}
+{{headquarters}}
+{{has sibling}}
+{{event year}}
+{{has author}}
+{{has spouse}}
+{{organization has member}}
+
+Please choose the most suitable option from the given choices.
+    

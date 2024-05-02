@@ -1,0 +1,37 @@
+Considérez un domaine où seules les relations suivantes peuvent exister entre deux entités : 
+
+{{a une éducation}}
+{{organisation fondée par}}
+{{lieu de naissance}}
+{{année de l'événement}}
+{{aucune relation}}
+{{a une occupation}}
+{{a un genre}}
+{{a un type}}
+{{est situé(e) à}}
+{{a une population}}
+
+Étant donné les exemples suivants,
+
+Déclaration: {{Braulio Rodríguez Plaza, né le 27 janvier 1944 à Aldea del Fresno, Communauté de Madrid en Espagne, est un évêque catholique espagnol, archevêque émérite de Tolède depuis 2019.}}
+{{a un type}} décrit le mieux la relation entre {{Braulio Rodríguez Plaza}} et {{évêque}}
+
+Déclaration: {{modifier Jai Courtney, de son vrai nom Jai Stephen Courtney, né le 15 mars 1986 à Sydney, en Nouvelle-Galles du Sud, en (Australie), est un acteur australien.}}
+{{lieu de naissance}} décrit le mieux la relation entre {{Jai Courtney}} et {{Nouvelle-Galles du Sud}}
+
+Déclaration: {{Sophos est une société de logiciels et d'appliances de sécurité fondée en 1985 basée à Abingdon en Angleterre. Ses fondateurs sont Jan Hruska et Peter Lammer, deux étudiants d'Oxford.}}
+{{organisation fondée par}} décrit le mieux la relation entre {{Sophos}} et {{Jan Hruska et Peter Lammer}}
+
+Déclaration: {{Pallisa est une ville, capitale du district de Pallisa, en Ouganda.}}
+{{est situé(e) à}} décrit le mieux la relation entre {{Pallisa}} et {{Ouganda}}
+
+Déclaration: {{Hamur est une ville et un district de la province d'Ağrı dans la région de l'Anatolie orientale en Turquie.}}
+{{est situé(e) à}} décrit le mieux la relation entre {{Hamur}} et {{Turquie}}
+
+
+
+Утверждение: {{250pxДэйв Холланд (; родился: 1 октября 1946 в Волверхэмптоне, Англия) — британский джазовый контрабасист и композитор.}}
+
+
+Какое отношение лучше всего описывает отношение между {{Дэйв Холланд}} и {{джаз}} из списка отношений, указанных выше?
+    

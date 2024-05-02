@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Crosby's brother Ethan, who taught him to play guitar and started his musical career with him, committed suicide in late 1997 or early 1998; the date is unknown because Ethan left a note not to search for his body but to let him return to the earth.}}.
+What is the most appropriate relation between {{Crosby}} and {{Ethan}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

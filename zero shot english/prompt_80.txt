@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Aleksandar Khristov (Bulgarian: Александър Христов) (born 28 July 1964) is a retired boxer from Bulgaria, who became world champion and represented his native country at the 1988 Summer Olympics in Seoul, South Korea.}}.
+What is the most appropriate relation between {{Aleksandar Khristov}} and {{Bulgaria}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

@@ -1,0 +1,201 @@
+actual	generated
+lieu de naissance	Location
+a le type	instance of
+le film a un réalisateur	Person
+a une profession	Personnalité
+le film a un réalisateur	Artist
+lieu de naissance	Location
+a un genre	No
+lieu de naissance	where is Darren McCarty born
+lieu de naissance	No
+lieu de naissance	Location
+a un genre	No
+lieu de naissance	No
+le film a un réalisateur	Person
+a une profession	instance of
+a le type	instance of
+lieu de naissance	No
+a un auteur	Person
+a une profession	Personnalité
+a une profession	Person
+du pays	No
+lieu de naissance	Location
+a le type	Location
+lieu de naissance	Location
+situé à	No
+situé à	Location
+le film a un réalisateur	No
+situé à	No
+lieu de naissance	No
+le film a un réalisateur	Personnalité
+a un auteur	Person
+a un genre	No
+l'organisation a un membre	No
+a un auteur	No
+a une profession	Person
+année de l'événement	No
+siège social	Location
+a le type	Album
+situé à	No
+lieu de naissance	No
+le film a un réalisateur	Artist
+a un parent	Persons name is Robert Lehman
+a une profession	Personnage
+le film a un réalisateur	Personnalité
+situé à	No
+situé à	Location
+situé à	Location
+lieu de naissance	Location
+a un genre	No
+situé à	No
+situé à	No
+le film a un réalisateur	name
+lieu de naissance	Person
+le film a un réalisateur	Artist
+le film a un réalisateur	Artist
+situé à	No relation
+a une profession	No
+lieu de naissance	Location
+lieu de naissance	No
+lieu de naissance	Location
+lieu de naissance	No
+a un auteur	Personnalité
+le film a un réalisateur	Artist
+du pays	Location
+lieu de naissance	Person in which country is Jyothis
+lieu de naissance	Yes
+lieu de naissance	No
+lieu de naissance	Location
+a le type	Album
+lieu de naissance	located in
+lieu de naissance	Location
+le film a un réalisateur	Written Work
+est membre de	Artist
+lieu de naissance	Location
+le film a un réalisateur	No
+a le type	No
+lieu de naissance	No
+a un genre	instance of
+a une profession	No
+a un genre	Yes
+lieu de naissance	Location
+lieu de naissance	No
+situé à	No
+lieu de naissance	Location
+lieu de naissance	Location
+a une profession	Personnalité
+a une profession	No
+a un genre	No
+lieu de naissance	Location
+lieu de naissance	Location
+a un genre	No
+lieu de naissance	Location
+lieu de naissance	Person of interest
+lieu de naissance	Location
+le film a un réalisateur	Artist
+a le type	No
+a une profession	Artist
+situé à	Location
+lieu de naissance	located in
+lieu de naissance	No
+a un auteur	Personnalité
+lieu de naissance	Location
+situé à	No
+lieu de naissance	Location
+lieu de naissance	No
+a une profession	Artist
+situé à	Yes
+a une profession	No
+l'organisation a un membre	Person
+lieu de naissance	Location
+a le type	No
+situé à	No
+le film a un réalisateur	relation
+du pays	No
+a un auteur	No
+lieu de naissance	No
+a le type	instance of
+lieu de naissance	Person
+lieu de naissance	Location
+a le type	No
+lieu de naissance	Location
+lieu de naissance	No
+a un genre	genre
+situé à	No
+situé à	city
+a un conjoint	Family
+situé à	Location
+lieu de naissance	No
+lieu de naissance	Location
+lieu de naissance	Location
+a un genre	No
+lieu de naissance	Where is Thomas Lièvremont born
+lieu de naissance	No
+lieu de naissance	Location
+lieu de naissance	location in
+a une profession	Personnalité
+du pays	No
+est membre de	Association
+lieu de naissance	No
+a une profession	No
+lieu de naissance	No
+a une profession	Artist
+situé à	Location
+a le type	No
+le film a un réalisateur	No
+lieu de naissance	Location
+a une profession	Personnalité
+situé à	Yes
+a une profession	No
+le film a un réalisateur	instance of
+a un genre	No
+l'organisation a un fondateur	No
+situé à	No
+lieu de naissance	Location
+a un auteur	No
+a une profession	relationship
+a le type	Album
+lieu de naissance	Location
+le film a un réalisateur	No
+le film a un réalisateur	Person
+a une éducation	Person
+a une profession	Personnage
+a le type	Album
+a une profession	Personnalité
+a une profession	No
+a une profession	Personnalité
+chef d'organisation	Office Holder
+aucune relation	No
+lieu de naissance	No
+lieu de naissance	No
+a le type	instance of
+situé à	Située dans la commune de Mikitamäe dans le comté de Põlva au sudest de lEstonie
+l'organisation a un fondateur	No
+situé à	No
+lieu de naissance	Location
+a le type	No
+lieu de naissance	No
+lieu de naissance	Location
+a le type	No
+du pays	Location
+situé à	No
+lieu de naissance	No
+du pays	No
+situé à	No
+l'organisation a un membre	Person
+lieu de naissance	No
+situé à	No
+lieu de naissance	Location
+aucune relation	No
+est membre de	Personnalité
+le film a un réalisateur	Personnalité
+le film a un réalisateur	Person
+le film a un réalisateur	No
+a une profession	Person
+du pays	No
+lieu de naissance	located in
+situé à	No
+lieu de naissance	Location
+a le type	No
+lieu de naissance	Location
+situé à	No

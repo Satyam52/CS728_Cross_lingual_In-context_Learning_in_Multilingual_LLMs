@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Jane Annie Collier (28 September 1869 & ndash;13 October 1955) was a New Zealand teacher of the blind and church worker.}}.
+What is the most appropriate relation between {{Jane Annie Collier}} and {{New Zealand}} from the following options?
+
+{{located in}}
+{{has population}}
+{{has parent}}
+{{from country}}
+{{movie has director}}
+{{won award}}
+{{has genre}}
+{{organization leader}}
+{{is member of}}
+{{first product}}
+{{no relation}}
+{{has occupation}}
+{{has education}}
+{{starring}}
+{{birth place}}
+{{has child}}
+{{has type}}
+{{organization has founder}}
+{{headquarters}}
+{{has sibling}}
+{{event year}}
+{{has author}}
+{{has spouse}}
+{{organization has member}}
+
+Please choose the most suitable option from the given choices.
+    

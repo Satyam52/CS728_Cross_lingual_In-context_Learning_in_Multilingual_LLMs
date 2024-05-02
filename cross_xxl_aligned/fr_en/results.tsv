@@ -1,0 +1,201 @@
+actual	generated
+a un type	a un type
+du pays	du pays
+est situé(e) à	country
+lieu de naissance	birthplace
+est situé(e) à	islocated in
+est situé(e) à	du pays
+organisation a pour membre	leader
+lieu de naissance	birthplace
+du pays	nationality
+a un type	genre
+a pour auteur	a pour auteur
+lieu de naissance	du pays
+lieu de naissance	du pays
+est situé(e) à	du pays
+est situé(e) à	located in
+a pour auteur	a pour auteur
+film réalisé par	film réalisé par
+siège social	islocated in
+siège social	country
+a pour auteur	a pour auteur
+siège social	country
+est situé(e) à	islocated in
+a une occupation	hasoccupation
+a un genre	genre
+a pour auteur	a pour auteur
+a un type	a un type
+a une population	population
+organisation a pour membre	a pour auteur
+film réalisé par	film réalisé par
+a une population	a une population
+a un genre	genre
+film réalisé par	film réalisé par
+a une occupation	hasoccupation
+a pour auteur	a pour auteur
+a un type	a un type
+est situé(e) à	du pays
+lieu de naissance	lieu de naissance
+du pays	du pays
+du pays	race
+organisation a pour membre	leader de lorganisation
+est membre de	association
+lieu de naissance	du pays
+a une éducation	a une éducation
+a une éducation	a une éducation
+est situé(e) à	islocated in
+siège social	located in
+organisation a pour membre	a pour auteur
+est situé(e) à	country
+a pour auteur	a pour auteur
+du pays	du pays
+a un type	instance of
+a pour auteur	a pour auteur
+est situé(e) à	country
+a pour enfant	author
+a une occupation	hasoccupation
+lieu de naissance	birthplace
+lieu de naissance	lieu de naissance
+est membre de	a un parent
+lieu de naissance	birthplace
+est situé(e) à	islocated in
+a un genre	genre
+est membre de	club
+a une éducation	education
+a pour auteur	a pour auteur
+siège social	siège social
+lieu de naissance	lieu de naissance
+est membre de	plays for
+est situé(e) à	country
+du pays	ethnic group
+a une occupation	hasoccupation
+organisation a pour membre	a pour auteur
+est situé(e) à	islocated in
+a une population	population
+siège social	siège social
+a remporté un prix	a remporté un prix
+du pays	country
+a pour auteur	a pour auteur
+a un type	type
+a un genre	genre
+du pays	du pays
+a une éducation	a une éducation
+a une population	population
+a un type	genre
+organisation a pour membre	guitarist
+aucune relation	son
+lieu de naissance	lieu de naissance
+a un frère ou une sœur	sister
+film réalisé par	film réalisé par
+a un frère ou une sœur	sœur
+lieu de naissance	lieu de naissance
+a un type	genre
+a un conjoint	a un conjoint
+a une éducation	a une éducation
+a un type	a un type
+a une occupation	hasoccupation
+organisation a pour membre	member
+a pour auteur	a pour auteur
+du pays	du pays
+année de l'événement	année de lévénement
+a une occupation	occupation
+a une occupation	hasoccupation
+organisation a pour membre	a pour auteur
+lieu de naissance	lieu de naissance
+a pour auteur	a pour auteur
+du pays	ethnic group
+a un type	genre
+a un type	record label
+est situé(e) à	islocated in
+siège social	siège social
+organisation fondée par	organisation fondée par
+organisation a pour membre	a pour auteur
+a une occupation	employer
+est situé(e) à	country
+organisation a pour membre	lead vocals
+a un type	sport
+a pour auteur	a pour auteur
+organisation a pour membre	member
+a une occupation	hasoccupation
+a un parent	parent
+a une occupation	occupation
+a pour auteur	a pour auteur
+du pays	country
+lieu de naissance	birthplace
+siège social	siège social
+a un type	isatype
+a pour auteur	a pour auteur
+est situé(e) à	du pays
+a une occupation	hasoccupation
+a une éducation	a une éducation
+a pour auteur	a pour auteur
+a un genre	genre
+a une occupation	hasoccupation
+a pour auteur	a pour auteur
+organisation a pour membre	lead vocalist
+a un genre	genre
+a une population	a une population
+a pour auteur	a pour auteur
+a une occupation	hasoccupation
+du pays	genre
+a un type	genre
+lieu de naissance	birthplace
+film réalisé par	film réalisé par
+a une éducation	a une éducation
+lieu de naissance	birthplace
+a un genre	genre
+est situé(e) à	du pays
+a un conjoint	a un conjoint
+est situé(e) à	manufacturer
+a une population	a une population
+a une occupation	occupation
+organisation a pour membre	bass
+siège social	du pays
+a un type	record label
+lieu de naissance	du pays
+leader de l'organisation	leader de lorganisation
+a un genre	genre
+a une population	a une population
+a une population	a une population
+organisation fondée par	organisation fondée par
+a une population	a une population
+du pays	du pays
+a pour auteur	artist
+a pour enfant	a un parent
+organisation a pour membre	producer
+a une occupation	occupation
+organisation fondée par	organisation fondée par
+siège social	siège social
+a remporté un prix	mettant en vedette
+organisation fondée par	organisation fondée par
+lieu de naissance	birthplace
+siège social	siège social
+a une population	a une population
+est situé(e) à	du pays
+premier produit	premier produit
+du pays	ethnic group
+a un frère ou une sœur	a un frère ou une sœur
+lieu de naissance	lieu de naissance
+a un type	genre
+lieu de naissance	lieu de naissance
+a un genre	genre
+a un type	genre
+a pour auteur	a pour auteur
+a un type	type
+lieu de naissance	birthplace
+a un type	genre
+siège social	du pays
+est situé(e) à	est située à
+est situé(e) à	est située à
+a une population	a une population
+a un type	record label
+du pays	languages spoken or written
+leader de l'organisation	leader de lorganisation
+a pour auteur	a pour auteur
+est situé(e) à	country
+film réalisé par	film réalisé par
+lieu de naissance	lieu de naissance
+mettant en vedette	mettant en vedette
+organisation fondée par	organisation fondée par
+a remporté un prix	a remporté un prix
+film réalisé par	film réalisé par

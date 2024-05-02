@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Hough-on-the-Hill is a village and civil parish in the South Kesteven district of Lincolnshire, England. The population of the civil parish including Brandon was 399 at the 2011 census.}}.
+What is the most appropriate relation between {{Hough-on-the-Hill}} and {{399}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Peter von Matt (2008) Peter von Matt (born 20 May 1937) is a Swiss philologist and author. Born in Lucerne, Peter von Matt grew up in Stans in the canton of Nidwalden.}}.
+What is the most appropriate relation between {{Peter von Matt}} and {{Lucerne}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

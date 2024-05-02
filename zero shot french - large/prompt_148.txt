@@ -1,0 +1,25 @@
+
+Considérez l'énoncé suivant comme vérité : {{Auguste Chapuis, né le 20 avril 1858, mort le 6 décembre 1933 à Paris, est compositeur, organiste, et professeur français.}}.
+Quelle est la relation la plus appropriée entre {{Auguste Chapuis}} et {{compositeur}} parmi les options suivantes ?
+
+{{a un parent}}
+{{a un conjoint}}
+{{a un auteur}}
+{{l'organisation a un membre}}
+{{année de l'événement}}
+{{est membre de}}
+{{le film a un réalisateur}}
+{{lieu de naissance}}
+{{du pays}}
+{{a une éducation}}
+{{chef d'organisation}}
+{{aucune relation}}
+{{a le type}}
+{{situé à}}
+{{l'organisation a un fondateur}}
+{{siège social}}
+{{a un genre}}
+{{a une profession}}
+
+Veuillez choisir l'option la plus appropriée parmi les choix donnés
+    

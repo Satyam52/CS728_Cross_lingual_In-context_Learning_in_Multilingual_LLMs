@@ -1,0 +1,45 @@
+Consider a domain where only the following relations can exist between any two entities:
+
+{{headquarters}}
+{{has type}}
+{{has spouse}}
+{{has occupation}}
+{{has education}}
+{{has genre}}
+{{from country}}
+{{has author}}
+{{event year}}
+{{has parent}}
+{{birth place}}
+{{organization has founder}}
+{{located in}}
+{{no relation}}
+{{organization leader}}
+{{is member of}}
+{{organization has member}}
+{{movie has director}}
+
+Given the following examples,
+
+Statement: {{Volodymyr Barilko (Ukrainian: Володимир Володимирович Барілко; born 29 January 1994) is a retired professional Ukrainian football striker. Barilko is a product of the Metalist Kharkiv Youth School System.}}
+{{birth-place}} best describes the relation between {{Volodymyr Barilko}} and {{Kharkiv}}
+
+Statement: {{Arthur Herzog III (April 6, 1927 – May 26, 2010) was an American novelist, non-fiction writer, and journalist, well known for his works of science fiction and true crime books.}}
+{{has-genre}} best describes the relation between {{Arthur Herzog III}} and {{true crime}}
+
+Statement: {{Kalyaniyin Kanavan (English: Kalyani's Husband) is a 1963 Indian Tamil film, directed and produced by S. The film stars Sivaji Ganesan and B. Saroja Devi in lead roles, M.}}
+{{starring}} best describes the relation between {{Kalyaniyin Kanavan}} and {{B. Saroja Devi}}
+
+Statement: {{All the Beautiful Things is a 2014 American documentary film written and directed by John D. Harkrider.}}
+{{movie-has-director}} best describes the relation between {{All the Beautiful Things}} and {{John D. Harkrider}}
+
+Statement: {{The People's Movement for Progress (, MPP) " Roch Marc Christian Kaboré à la tête d'un nouveau parti d'opposition " , Jeune Afrique, 26 January 2014 . ".}}
+{{org-leader}} best describes the relation between {{People's Movement for Progress}} and {{Roch Marc Christian Kaboré}}
+
+
+
+Déclaration: {{modifier Aarre Merikanto est un compositeur et pédagogue finlandais, né à Helsinki (Finlande) le 29 juin 1893, décédé au même lieu le 28 septembre 1958.}}
+
+
+Quelle relation décrit le mieux la relation entre {{Aarre Merikanto}} et {{Helsinki}}
+    

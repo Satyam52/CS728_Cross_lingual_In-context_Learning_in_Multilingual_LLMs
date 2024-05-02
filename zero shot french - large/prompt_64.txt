@@ -1,0 +1,25 @@
+
+Considérez l'énoncé suivant comme vérité : {{Juhani Peltonen, né le 16 juin 1936 à Valkeakoski en Finlande, est un footballeur finlandais ayant joué principalement pour l'équipe du FC Haka Valkeakoski, club de sa ville de naissance.}}.
+Quelle est la relation la plus appropriée entre {{Juhani Peltonen}} et {{Finlande}} parmi les options suivantes ?
+
+{{a un parent}}
+{{a un conjoint}}
+{{a un auteur}}
+{{l'organisation a un membre}}
+{{année de l'événement}}
+{{est membre de}}
+{{le film a un réalisateur}}
+{{lieu de naissance}}
+{{du pays}}
+{{a une éducation}}
+{{chef d'organisation}}
+{{aucune relation}}
+{{a le type}}
+{{situé à}}
+{{l'organisation a un fondateur}}
+{{siège social}}
+{{a un genre}}
+{{a une profession}}
+
+Veuillez choisir l'option la plus appropriée parmi les choix donnés
+    

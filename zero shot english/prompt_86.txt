@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Pape Habib Sow (born December 2, 1985 in Dakar) is a Senegalese footballer who plays for Inter Turku as a defensive midfielder.}}.
+What is the most appropriate relation between {{Pape Habib Sow}} and {{Dakar}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

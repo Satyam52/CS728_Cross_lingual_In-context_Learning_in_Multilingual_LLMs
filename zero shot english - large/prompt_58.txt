@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Luigi Rana (born 6 November 1986) is an Italian footballer who plays for Martina. Rana was a youth product of A.S. Bari.}}.
+What is the most appropriate relation between {{Luigi Rana}} and {{A.S. Bari}} from the following options?
+
+{{located in}}
+{{has population}}
+{{has parent}}
+{{from country}}
+{{movie has director}}
+{{won award}}
+{{has genre}}
+{{organization leader}}
+{{is member of}}
+{{first product}}
+{{no relation}}
+{{has occupation}}
+{{has education}}
+{{starring}}
+{{birth place}}
+{{has child}}
+{{has type}}
+{{organization has founder}}
+{{headquarters}}
+{{has sibling}}
+{{event year}}
+{{has author}}
+{{has spouse}}
+{{organization has member}}
+
+Please choose the most suitable option from the given choices.
+    

@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{The 33rd Yokohama Film Festival (第33回ヨコハマ映画祭) was held in 2012 in Yokohama, Kanagawa, Japan.}}.
+What is the most appropriate relation between {{33rd Yokohama Film Festival}} and {{2012}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

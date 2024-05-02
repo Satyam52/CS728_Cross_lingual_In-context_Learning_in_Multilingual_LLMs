@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Rick Donnelly (born May 17, 1962 in Miller Place, New York) is a former punter in the National Football League.}}.
+What is the most appropriate relation between {{Rick Donnelly}} and {{Miller Place, New York}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

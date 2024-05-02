@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Płociczno-Tartak [pwɔˈt͡ɕit͡ʂnɔ ˈtartak] is a village in the administrative district of Gmina Suwałki, within Suwałki County, Podlaskie Voivodeship, in north-eastern Poland.}}.
+What is the most appropriate relation between {{Płociczno-Tartak}} and {{Poland}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

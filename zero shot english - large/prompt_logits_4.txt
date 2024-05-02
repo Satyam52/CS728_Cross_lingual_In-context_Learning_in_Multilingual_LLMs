@@ -1,0 +1,4 @@
+
+Consider the following statement as truth: Elia Rigotto (born 4 March 1982 in Vicenza) is an Italian former professional road bicycle racer.
+event year best describes the relation between Elia Rigotto and Vicenza based on above provided sentence.
+    

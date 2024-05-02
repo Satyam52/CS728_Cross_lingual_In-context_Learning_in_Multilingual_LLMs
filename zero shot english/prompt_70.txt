@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Andrew Macdonald (born 1966) is a Scottish film producer, best known for his collaborations with screenwriter John Hodge and director Danny Boyle, including Shallow Grave (1994), The New York Times Trainspotting (1996), The Beach (2000) and 28 Days Later (2002).}}.
+What is the most appropriate relation between {{Andrew Macdonald}} and {{film producer}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

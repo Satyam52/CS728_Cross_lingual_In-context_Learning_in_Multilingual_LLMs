@@ -1,0 +1,25 @@
+
+Considérez l'énoncé suivant comme vérité : {{AllMusic Blender Q Albums de Pink Floyd A Saucerful of Secrets(1968) Singles modifier The Piper at the Gates of Dawn est le premier album studio du groupe britannique Pink Floyd, sorti le 5 août 1967.}}.
+Quelle est la relation la plus appropriée entre {{The Piper at the Gates of Dawn}} et {{album}} parmi les options suivantes ?
+
+{{a un parent}}
+{{a un conjoint}}
+{{a un auteur}}
+{{l'organisation a un membre}}
+{{année de l'événement}}
+{{est membre de}}
+{{le film a un réalisateur}}
+{{lieu de naissance}}
+{{du pays}}
+{{a une éducation}}
+{{chef d'organisation}}
+{{aucune relation}}
+{{a le type}}
+{{situé à}}
+{{l'organisation a un fondateur}}
+{{siège social}}
+{{a un genre}}
+{{a une profession}}
+
+Veuillez choisir l'option la plus appropriée parmi les choix donnés
+    

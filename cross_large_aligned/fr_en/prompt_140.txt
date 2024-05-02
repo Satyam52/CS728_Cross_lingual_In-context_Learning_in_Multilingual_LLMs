@@ -1,0 +1,77 @@
+Considérez un domaine où seules les relations suivantes peuvent exister entre deux entités : 
+
+{{premier produit}}
+{{est membre de}}
+{{film réalisé par}}
+{{mettant en vedette}}
+{{a remporté un prix}}
+{{a une éducation}}
+{{organisation fondée par}}
+{{a pour enfant}}
+{{a un frère ou une sœur}}
+{{a une population}}
+{{est situé(e) à}}
+{{lieu de naissance}}
+{{aucune relation}}
+{{a un genre}}
+{{du pays}}
+{{a une occupation}}
+{{organisation a pour membre}}
+{{leader de l'organisation}}
+{{année de l'événement}}
+{{a un type}}
+{{a pour auteur}}
+{{a un parent}}
+{{siège social}}
+{{a un conjoint}}
+
+Étant donné les exemples suivants,
+
+Déclaration: {{Ronald Virag, né le 7 décembre 1938 à Metz, est un chirurgien cardio-vasculaire, andrologue français.}}
+birth-place décrit le mieux la relation entre {{Ronald Virag}} et {{Metz}}
+
+Déclaration: {{Patricia Avery (née Elizabeth Anderson Avery le 12 novembre 1902 à Boston et morte le 21 août 1973 à La Crescenta-Montrose) fut une actrice américaine du cinéma muet.}}
+birth-place décrit le mieux la relation entre {{Patricia Avery}} et {{Boston}}
+
+Déclaration: {{modifier Jack Cassidy est un acteur américain né le 5 mars 1927 à New York (États-Unis), décédé le 12 décembre 1976 à West Hollywood (Californie).}}
+birth-place décrit le mieux la relation entre {{Jack Cassidy}} et {{New York}}
+
+Déclaration: {{Makedonska Kamenitsa ou Makedonska Kamenica (en macédonien : Македонска Каменица, prononcé [maˈkɛdɔnska kaˈmɛnitsa] Écouter) est une municipalité et une ville du nord-est de la Macédoine du Nord.}}
+is-where décrit le mieux la relation entre {{Makedonska Kamenica}} et {{Macédoine}}
+
+Déclaration: {{Jean-Daniel Simon, né à Salon-de-Provence le 30 novembre 1942, est un acteur et cinéaste français. Jean-Daniel Simon débute comme assistant réalisateur à 18 ans, en 1960.}}
+has-occupation décrit le mieux la relation entre {{Jean-Daniel Simon}} et {{réalisateur}}
+
+
+
+Given,
+In English {{premier produit}} means {{first product}}
+In English {{est membre de}} means {{is member of}}
+In English {{film réalisé par}} means {{movie has director}}
+In English {{mettant en vedette}} means {{starring}}
+In English {{a remporté un prix}} means {{won award}}
+In English {{a une éducation}} means {{has education}}
+In English {{organisation fondée par}} means {{organization has founder}}
+In English {{a pour enfant}} means {{has child}}
+In English {{a un frère ou une sœur}} means {{has sibling}}
+In English {{a une population}} means {{has population}}
+In English {{est situé(e) à}} means {{located in}}
+In English {{lieu de naissance}} means {{birth place}}
+In English {{aucune relation}} means {{no relation}}
+In English {{a un genre}} means {{has genre}}
+In English {{du pays}} means {{from country}}
+In English {{a une occupation}} means {{has occupation}}
+In English {{organisation a pour membre}} means {{organization has member}}
+In English {{leader de l'organisation}} means {{organization leader}}
+In English {{année de l'événement}} means {{event year}}
+In English {{a un type}} means {{has type}}
+In English {{a pour auteur}} means {{has author}}
+In English {{a un parent}} means {{has parent}}
+In English {{siège social}} means {{headquarters}}
+In English {{a un conjoint}} means {{has spouse}}
+
+Statement: {{Wir wollen nur deine Seele is the second live album by Die Ärzte and was released on 22 November 1999.}}
+
+
+What relation best describes the relation between {{Wir wollen nur deine Seele}} and {{live}} from the list of relations given above?
+    

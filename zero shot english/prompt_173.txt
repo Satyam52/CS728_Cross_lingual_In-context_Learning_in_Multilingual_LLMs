@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Shanghai Pinghe School (or Shanghai Pinghe Bilingual School, Chinese: 上海平和学校, 上海市平和双语学校) is a private, boarding school in Shanghai, China.}}.
+What is the most appropriate relation between {{Shanghai Pinghe School}} and {{China}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

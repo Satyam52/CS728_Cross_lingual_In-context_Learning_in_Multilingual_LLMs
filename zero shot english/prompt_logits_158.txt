@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Mannamangalam is a village in Thrissur district in the state of Kerala, India. India census, Mannamangalam had a population of 8863 with 4454 males and 4409 females.}}.
+What is the most appropriate relation between {{Mannamangalam}} and {{8863}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

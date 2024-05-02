@@ -1,0 +1,4 @@
+
+Consider the following statement as truth: {Šafov (German: Schaffa) is a village and municipality (obec) in Znojmo District in the South Moravian Region of the Czech Republic.}.
+The relation between {Šafov} and {Czech Republic} is movie has director
+    

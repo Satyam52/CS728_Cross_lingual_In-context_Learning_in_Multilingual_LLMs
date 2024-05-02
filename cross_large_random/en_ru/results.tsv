@@ -1,0 +1,132 @@
+actual	generated
+имеет профессию	occupation
+имеет профессию	Artist
+имеет профессию	occupation
+имеет население	population
+имеет профессию	Relationship
+имеет население	population
+имеет профессию	occupation
+имеет профессию	not enough information
+имеет тип	occupation
+имеет образование	Educational
+имеет население	population
+имеет население	population
+имеет профессию	No relation
+имеет тип	instance of
+имеет профессию	not in context
+имеет профессию	genre
+имеет профессию	relationship
+нет отношения	instance of
+имеет население	population
+имеет тип	Person
+имеет население	located in
+имеет тип	No relation
+имеет профессию	Person
+имеет профессию	Artist
+имеет тип	relationship
+имеет население	population
+имеет тип	relationship
+имеет профессию	occupation
+имеет профессию	Artist
+имеет профессию	Artist
+имеет профессию	occupation
+имеет тип	genre
+имеет профессию	religion
+нет отношения	has occupation
+имеет профессию	occupation
+имеет профессию	relationship
+имеет профессию	occupation
+имеет профессию	occupation
+имеет профессию	occupation
+имеет профессию	relationship
+имеет профессию	occupation
+имеет население	population
+имеет жанр	instance of
+имеет профессию	occupation
+имеет профессию	not stated
+имеет население	population
+имеет население	No relation
+имеет профессию	occupation
+имеет профессию	occupation
+имеет профессию	occupation
+имеет профессию	has occupation
+имеет профессию	occupation
+имеет население	population
+имеет население	population
+имеет жанр	genre
+имеет профессию	occupation
+имеет профессию	occupation
+имеет профессию	Person
+имеет профессию	relationship
+имеет профессию	No relation
+имеет тип	occupation
+имеет население	No
+имеет профессию	actor
+имеет профессию	genre
+имеет население	Yes
+имеет жанр	genre
+имеет тип	No
+имеет тип	occupation
+имеет население	population
+год события	No relation
+имеет профессию	relationship
+имеет профессию	Artist
+имеет профессию	relation
+имеет тип	relationship
+имеет профессию	Person
+имеет население	population
+имеет профессию	Person
+имеет профессию	No relation
+имеет профессию	Yes
+имеет профессию	occupation
+имеет тип	Location
+имеет профессию	occupation
+имеет профессию	relationship
+имеет население	population
+имеет жанр	genre
+имеет профессию	occupation
+имеет население	population
+имеет профессию	occupation
+имеет профессию	Person
+имеет профессию	relationship
+имеет тип	religion
+имеет население	population
+имеет профессию	Person
+имеет тип	No relation
+имеет профессию	relationship
+имеет тип	occupation
+имеет тип	Person
+имеет население	population
+год события	date of birth
+имеет профессию	occupation
+нет отношения	record
+имеет жанр	genre
+имеет профессию	Person
+имеет тип	relations
+имеет профессию	genre
+имеет профессию	occupation
+имеет тип	instance of
+имеет население	population
+имеет тип	genre
+имеет профессию	relationship
+имеет жанр	genre
+имеет тип	name
+имеет тип	Location
+год события	year
+имеет население	no relation
+имеет профессию	Artist
+имеет профессию	occupation
+имеет профессию	occupation
+имеет профессию	Person
+имеет профессию	occupation
+имеет жанр	genre
+имеет профессию	Artist
+имеет жанр	genre
+имеет население	population
+имеет профессию	occupation
+имеет тип	located in
+имеет профессию	occupation
+имеет население	population
+имеет профессию	Artist
+имеет население	population
+имеет профессию	occupation

@@ -1,0 +1,25 @@
+
+Considérez l'énoncé suivant comme vérité : {{modifier Gerald Flood (né le 21 avril 1927 à Portsmouth et mort le 12 avril 1989 (à 61 ans) à Norwich) est un acteur anglais de télévision et de théâtre connu pour ses rôles à la télévision anglaise des années 1960 aux années 1980.}}.
+Quelle est la relation la plus appropriée entre {{Gerald Flood}} et {{acteur}} parmi les options suivantes ?
+
+{{a un parent}}
+{{a un conjoint}}
+{{a un auteur}}
+{{l'organisation a un membre}}
+{{année de l'événement}}
+{{est membre de}}
+{{le film a un réalisateur}}
+{{lieu de naissance}}
+{{du pays}}
+{{a une éducation}}
+{{chef d'organisation}}
+{{aucune relation}}
+{{a le type}}
+{{situé à}}
+{{l'organisation a un fondateur}}
+{{siège social}}
+{{a un genre}}
+{{a une profession}}
+
+Veuillez choisir l'option la plus appropriée parmi les choix donnés
+    

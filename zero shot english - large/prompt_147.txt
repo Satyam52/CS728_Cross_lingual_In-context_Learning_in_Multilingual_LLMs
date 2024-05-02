@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Princess Teresa Czartoryska (1785–1868) was a Polish noblewoman. She married Prince Henryk Ludwik Lubomirski (1777–1850) on May 24, 1807.}}.
+What is the most appropriate relation between {{Teresa Czartoryska}} and {{Henryk Ludwik Lubomirski}} from the following options?
+
+{{located in}}
+{{has population}}
+{{has parent}}
+{{from country}}
+{{movie has director}}
+{{won award}}
+{{has genre}}
+{{organization leader}}
+{{is member of}}
+{{first product}}
+{{no relation}}
+{{has occupation}}
+{{has education}}
+{{starring}}
+{{birth place}}
+{{has child}}
+{{has type}}
+{{organization has founder}}
+{{headquarters}}
+{{has sibling}}
+{{event year}}
+{{has author}}
+{{has spouse}}
+{{organization has member}}
+
+Please choose the most suitable option from the given choices.
+    

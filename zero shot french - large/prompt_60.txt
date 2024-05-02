@@ -1,0 +1,25 @@
+
+Considérez l'énoncé suivant comme vérité : {{Sung Nak-woon (coréen : 성낙운) (né le 2 février 1926 en Corée, et mort le 28 mai 1997 à Séoul en Corée du Sud) est un joueur de football international sud-coréen, qui évoluait au poste d'attaquant.}}.
+Quelle est la relation la plus appropriée entre {{Sung Nak-woon}} et {{Corée}} parmi les options suivantes ?
+
+{{a un parent}}
+{{a un conjoint}}
+{{a un auteur}}
+{{l'organisation a un membre}}
+{{année de l'événement}}
+{{est membre de}}
+{{le film a un réalisateur}}
+{{lieu de naissance}}
+{{du pays}}
+{{a une éducation}}
+{{chef d'organisation}}
+{{aucune relation}}
+{{a le type}}
+{{situé à}}
+{{l'organisation a un fondateur}}
+{{siège social}}
+{{a un genre}}
+{{a une profession}}
+
+Veuillez choisir l'option la plus appropriée parmi les choix donnés
+    

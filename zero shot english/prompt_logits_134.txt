@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Au Revoir Simone is an American indie pop band from Williamsburg, Brooklyn, New York, formed in 2003. The group is composed of Erika Forster (vocals/keyboard), Annie Hart (vocals/keyboard/bass) and Heather D'Angelo (vocals/drum machine/keyboard).}}.
+What is the most appropriate relation between {{Au Revoir Simone}} and {{Annie Hart}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

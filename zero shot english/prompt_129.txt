@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Universities of Freiburg and Göttingen David Daube FBA (8 February 1909, Freiburg, Germany – 24 February 1999, Berkeley, California) was the twentieth century's preeminent scholar of ancient law.}}.
+What is the most appropriate relation between {{David Daube}} and {{Universities of Freiburg and Göttingen}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

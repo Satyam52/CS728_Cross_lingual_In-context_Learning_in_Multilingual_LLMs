@@ -1,0 +1,201 @@
+actual	generated
+birth place	birth place
+has type	has type
+movie has director	movie has director
+has occupation	occupation
+movie has director	director
+birth place	birth place
+has genre	genre
+birth place	birth place
+birth place	nation
+birth place	birth place
+has genre	genre
+birth place	birth place
+movie has director	director
+has occupation	occupation
+has type	has type
+birth place	birth place
+has author	author
+has occupation	occupation
+has occupation	occupation
+from country	nationality
+birth place	birth place
+has type	type
+birth place	birth place
+located in	from country
+located in	country
+movie has director	movie has director
+located in	located in
+birth place	birth place
+movie has director	movie has director
+has author	author
+has genre	genre
+organization has member	leader
+has author	author
+has occupation	has occupation
+event year	année
+headquarters	headquarters
+has type	genre
+located in	hasnationality
+birth place	birth place
+movie has director	director
+has parent	parents
+has occupation	organization leader
+movie has director	director
+located in	located in
+located in	located in
+located in	hasnationality
+birth place	birth place
+has genre	genre
+located in	no relation
+located in	from country
+movie has director	movie has director
+birth place	birth place
+movie has director	director
+movie has director	director
+located in	from country
+has occupation	occupation
+birth place	birth place
+birth place	birth place
+birth place	birth place
+birth place	nationality
+has author	director
+movie has director	movie has director
+from country	nationality
+birth place	has nationality
+birth place	birth place
+birth place	birth place
+birth place	birth place
+has type	genre
+birth place	birth place
+birth place	birth place
+movie has director	movie has director
+is member of	is member of
+birth place	birth place
+movie has director	director
+has type	instance of
+birth place	birth place
+has genre	genre
+has occupation	occupation
+has genre	genre
+birth place	birth place
+birth place	birth place
+located in	from country
+birth place	birth place
+birth place	birth place
+has occupation	occupation
+has occupation	occupation
+has genre	genre
+birth place	birth place
+birth place	birth place
+has genre	genre
+birth place	birth place
+birth place	birth place
+birth place	hasnationality
+movie has director	director
+has type	genre
+has occupation	genre
+located in	nationality
+birth place	birth place
+birth place	birth place
+has author	author
+birth place	birth place
+located in	country
+birth place	birth place
+birth place	birth place
+has occupation	occupation
+located in	country
+has occupation	has occupation
+organization has member	hasdirector
+birth place	birth place
+has type	type
+located in	country
+movie has director	director
+from country	hasnationality
+has author	author
+birth place	birth place
+has type	genre
+birth place	located in
+birth place	birth place
+has type	genre
+birth place	birth place
+birth place	birth place
+has genre	genre
+located in	country
+located in	located in
+has spouse	spouse
+located in	country
+birth place	birth place
+birth place	birth place
+birth place	birth place
+has genre	hasinstance
+birth place	birth place
+birth place	birth place
+birth place	birth place
+birth place	birth place
+has occupation	occupation
+from country	nationality
+is member of	association
+birth place	birth place
+has occupation	occupation
+birth place	birth place
+has occupation	occupation
+located in	headquarters
+has type	genre
+movie has director	movie has director
+birth place	birth place
+has occupation	occupation
+located in	country
+has occupation	occupation
+movie has director	movie has director
+has genre	genre
+organization has founder	organization has founder
+located in	country
+birth place	birth place
+has author	author
+has occupation	occupation
+has type	genre
+birth place	birth place
+movie has director	movie has director
+movie has director	movie has director
+has education	is member of
+has occupation	occupation
+has type	genre
+has occupation	occupation
+has occupation	has occupation
+has occupation	occupation
+organization leader	organization leader
+no relation	hasyear
+birth place	birth place
+birth place	from country
+has type	record label
+located in	country
+organization has founder	organization has founder
+located in	nationality
+birth place	birth place
+has type	has type
+birth place	birth place
+birth place	birth place
+has type	occupation
+from country	nationality
+located in	country
+birth place	birth place
+from country	from country
+located in	country
+organization has member	director
+birth place	birth place
+located in	nationality
+birth place	birth place
+no relation	hasparent
+is member of	is member of
+movie has director	director
+movie has director	film réalisé par
+movie has director	movie has director
+has occupation	organization leader
+from country	from country
+birth place	birth place
+located in	from country
+birth place	birth place
+has type	genre
+birth place	birth place
+located in	country

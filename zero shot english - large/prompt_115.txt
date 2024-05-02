@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{The El Gouna International 2016 is the men's edition of the 2016 El Gouna International, which is a PSA World Series event (Prize money : 150 000 $).}}.
+What is the most appropriate relation between {{El Gouna International 2016}} and {{PSA}} from the following options?
+
+{{located in}}
+{{has population}}
+{{has parent}}
+{{from country}}
+{{movie has director}}
+{{won award}}
+{{has genre}}
+{{organization leader}}
+{{is member of}}
+{{first product}}
+{{no relation}}
+{{has occupation}}
+{{has education}}
+{{starring}}
+{{birth place}}
+{{has child}}
+{{has type}}
+{{organization has founder}}
+{{headquarters}}
+{{has sibling}}
+{{event year}}
+{{has author}}
+{{has spouse}}
+{{organization has member}}
+
+Please choose the most suitable option from the given choices.
+    

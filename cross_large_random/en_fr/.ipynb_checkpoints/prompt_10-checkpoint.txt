@@ -1,0 +1,45 @@
+Consider a domain where only the following relations can exist between any two entities:
+
+{{headquarters}}
+{{has type}}
+{{has spouse}}
+{{has occupation}}
+{{has education}}
+{{has genre}}
+{{from country}}
+{{has author}}
+{{event year}}
+{{has parent}}
+{{birth place}}
+{{organization has founder}}
+{{located in}}
+{{no relation}}
+{{organization leader}}
+{{is member of}}
+{{organization has member}}
+{{movie has director}}
+
+Given the following examples,
+
+Statement: {{Tiko Airport is an airport serving Tiko, a town in the Southwest Region of Cameroon.}}
+{{located in}} best describes the relation between {{Tiko Airport}} and {{Cameroon}}
+
+Statement: {{Katy Stephens is an award-winning, British actress and former children's presenter.}}
+{{from country}} best describes the relation between {{Katy Stephens}} and {{British}}
+
+Statement: {{Christian Byers (born 31 July 1993, Sydney, New South Wales, Australia) is an Australian actor.}}
+{{birth place}} best describes the relation between {{Christian Byers}} and {{Sydney}}
+
+Statement: {{Dreamchasers 2 is the ninth mixtape by American rapper Meek Mill (hosted by DJ Drama).}}
+{{has type}} best describes the relation between {{Dreamchasers 2}} and {{mixtape}}
+
+Statement: {{Aai Tuza Ashirwad is a Marathi film, which released on 9 August 2004. The movie produced by Murli Nallapa and directed by Mayur Vaishnav, is based on an emotional saga between a mother and her son.}}
+{{movie has director}} best describes the relation between {{Aai Tuza Ashirwad}} and {{Mayur Vaishnav}}
+
+
+
+Déclaration: {{Renato Corti, né le 1er mars 1936 à Galbiate dans la province de Lecco en Lombardie et mort le 12 mai 2020 à Milan, est un prélat catholique italien, évêque émérite de Novare à partir de 2011 et cardinal à partir de 2016.}}
+
+
+Quelle relation décrit le mieux la relation entre {{Renato Corti}} et {{Galbiate}}
+    

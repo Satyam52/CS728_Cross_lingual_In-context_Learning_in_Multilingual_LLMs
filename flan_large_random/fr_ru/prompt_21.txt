@@ -1,0 +1,36 @@
+Considérez un domaine où seules les relations suivantes peuvent exister entre deux entités : 
+
+{{a une éducation}}
+{{lieu de naissance}}
+{{année de l'événement}}
+{{aucune relation}}
+{{a une occupation}}
+{{a un genre}}
+{{a un type}}
+{{est situé(e) à}}
+{{a une population}}
+
+Étant donné les exemples suivants,
+
+Déclaration: {{La province de Tapacarí est une des 16 provinces du département de Cochabamba, en Bolivie.}}
+{{est situé(e) à}} décrit le mieux la relation entre {{Tapacarí}} et {{Bolivie}}
+
+Déclaration: {{modifier David Burns (parfois crédité Dave Burns), né le 22 juin 1902 à New York (arrondissement de Manhattan, État de New York) et mort le 12 mars 1971 à Philadelphie (Pennsylvanie), est un acteur et chanteur américain.}}
+{{lieu de naissance}} décrit le mieux la relation entre {{David Burns}} et {{New York}}
+
+Déclaration: {{Jean-Marc Chanelet est un footballeur français, né le 23 juillet 1968 à Paris (France).}}
+{{lieu de naissance}} décrit le mieux la relation entre {{Jean-Marc Chanelet}} et {{France}}
+
+Déclaration: {{Maxsain est une municipalité de la Verbandsgemeinde de Selters, dans l'arrondissement de Westerwald, en Rhénanie-Palatinat, dans l'ouest de l'Allemagne.}}
+{{est situé(e) à}} décrit le mieux la relation entre {{Maxsain}} et {{Allemagne}}
+
+Déclaration: {{Booker Woodfox, né le 6 septembre 1986 à Dallas au Texas, est un joueur américain de basket-ball.}}
+{{lieu de naissance}} décrit le mieux la relation entre {{Booker Woodfox}} et {{Dallas}}
+
+
+
+Утверждение: {{Рапоне (итал. Население составляет 1203 человека, плотность населения составляет 41 чел./км².}}
+
+
+Какое отношение лучше всего описывает отношение между {{Рапоне}} и {{1203}} из списка отношений, указанных выше?
+    

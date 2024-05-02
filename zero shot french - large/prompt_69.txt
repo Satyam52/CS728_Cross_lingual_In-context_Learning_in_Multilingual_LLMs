@@ -1,0 +1,25 @@
+
+Considérez l'énoncé suivant comme vérité : {{modifier Umberto Anastasio, connu sous le pseudonyme de Albert Anastasia (né le 26 septembre 1902 à Tropea, en Calabre et mort assassiné à New York le 25 octobre 1957) était un mafieux italo-américain.}}.
+Quelle est la relation la plus appropriée entre {{Albert Anastasia}} et {{Tropea}} parmi les options suivantes ?
+
+{{a un parent}}
+{{a un conjoint}}
+{{a un auteur}}
+{{l'organisation a un membre}}
+{{année de l'événement}}
+{{est membre de}}
+{{le film a un réalisateur}}
+{{lieu de naissance}}
+{{du pays}}
+{{a une éducation}}
+{{chef d'organisation}}
+{{aucune relation}}
+{{a le type}}
+{{situé à}}
+{{l'organisation a un fondateur}}
+{{siège social}}
+{{a un genre}}
+{{a une profession}}
+
+Veuillez choisir l'option la plus appropriée parmi les choix donnés
+    

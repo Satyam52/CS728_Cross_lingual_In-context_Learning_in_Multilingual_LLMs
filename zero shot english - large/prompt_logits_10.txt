@@ -1,0 +1,4 @@
+
+Consider the following statement as truth: Breezin' is the fifteenth studio album by jazz/soul guitarist George Benson.
+event year best describes the relation between Breezin' and album based on above provided sentence.
+    

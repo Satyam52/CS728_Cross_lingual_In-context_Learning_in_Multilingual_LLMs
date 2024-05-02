@@ -1,0 +1,201 @@
+actual	generated
+имеет тип	hasoccupation
+из страны	hasoccupation
+находится в	hasoccupation
+место рождения	hasoccupation
+находится в	hasoccupation
+находится в	hasoccupation
+организация имеет члена	hasoccupation
+место рождения	hasoccupation
+из страны	hasoccupation
+имеет тип	hastype
+имеет автора	hastype
+место рождения	country of origin
+место рождения	hasoccupation
+находится в	hasoccupation
+находится в	city
+имеет автора	hasoccupation
+фильм имеет режиссера	hasoccupation
+штаб-квартира	hasoccupation
+штаб-квартира	hasoccupation
+имеет автора	hasoccupation
+штаб-квартира	hasoccupation
+находится в	hastype
+имеет профессию	hasoccupation
+имеет жанр	hasoccupation
+имеет автора	hasoccupation
+имеет тип	hastype
+имеет население	hastype
+организация имеет члена	hasoccupation
+фильм имеет режиссера	hasoccupation
+имеет население	hasoccupation
+имеет жанр	hasoccupation
+фильм имеет режиссера	hasoccupation
+имеет профессию	hasoccupation
+имеет автора	hasoccupation
+имеет тип	hastype
+находится в	hasoccupation
+место рождения	place of birth
+из страны	hasoccupation
+из страны	Yes
+организация имеет члена	hasoccupation
+является членом	hasoccupation
+место рождения	hasoccupation
+имеет образование	hasoccupation
+имеет образование	hasoccupation
+находится в	hasoccupation
+штаб-квартира	country
+организация имеет члена	hasoccupation
+находится в	hasoccupation
+имеет автора	hasoccupation
+из страны	hasoccupation
+имеет тип	hasoccupation
+имеет автора	hasoccupation
+находится в	Hasoccupation
+имеет ребенка	hasoccupation
+имеет профессию	hasoccupation
+место рождения	hasoccupation
+место рождения	hasoccupation
+является членом	hastype
+место рождения	hastype
+находится в	country
+имеет жанр	hasoccupation
+является членом	hasoccupation
+имеет образование	hasoccupation
+имеет автора	hasoccupation
+штаб-квартира	hasoccupation
+место рождения	located in
+является членом	hasoccupation
+находится в	hasoccupation
+из страны	country of citizenship
+имеет профессию	hasoccupation
+организация имеет члена	hasoccupation
+находится в	hastype
+имеет население	hastype
+штаб-квартира	hasoccupation
+получил(а) награду	hasoccupation
+из страны	hasoccupation
+имеет автора	hasoccupation
+имеет тип	hasoccupation
+имеет жанр	hastype
+из страны	hasoccupation
+имеет образование	hasoccupation
+имеет население	hastype
+имеет тип	hastype
+организация имеет члена	hasoccupation
+нет отношения	hasoccupation
+место рождения	hasoccupation
+имеет брата или сестру	hasoccupation
+фильм имеет режиссера	hasoccupation
+имеет брата или сестру	hasoccupation
+место рождения	located in
+имеет тип	hastype
+имеет супруга(у)	hasoccupation
+имеет образование	hasoccupation
+имеет тип	hastype
+имеет профессию	hasoccupation
+организация имеет члена	hasoccupation
+имеет автора	hasoccupation
+из страны	hasoccupation
+год события	hasoccupation
+имеет профессию	hasoccupation
+имеет профессию	hasoccupation
+организация имеет члена	hasoccupation
+место рождения	hasoccupation
+имеет автора	hasoccupation
+из страны	hasoccupation
+имеет тип	hastype
+имеет тип	hastype
+находится в	hasoccupation
+штаб-квартира	hasoccupation
+организация имеет основателя	hasoccupation
+организация имеет члена	hasoccupation
+имеет профессию	hasoccupation
+находится в	hasoccupation
+организация имеет члена	hasoccupation
+имеет тип	hastype
+имеет автора	hasoccupation
+организация имеет члена	hasoccupation
+имеет профессию	hasoccupation
+имеет родителя	hasoccupation
+имеет профессию	hasoccupation
+имеет автора	hasoccupation
+из страны	hasoccupation
+место рождения	hasoccupation
+штаб-квартира	hasoccupation
+имеет тип	hasoccupation
+имеет автора	hasoccupation
+находится в	hastype
+имеет профессию	hasoccupation
+имеет образование	hasoccupation
+имеет автора	hasoccupation
+имеет жанр	hasoccupation
+имеет профессию	hasoccupation
+имеет автора	hasoccupation
+организация имеет члена	hasoccupation
+имеет жанр	hastype
+имеет население	hastype
+имеет автора	hasoccupation
+имеет профессию	hasoccupation
+из страны	hasoccupation
+имеет тип	hastype
+место рождения	hasoccupation
+фильм имеет режиссера	hasoccupation
+имеет образование	hasoccupation
+место рождения	hasoccupation
+имеет жанр	hasoccupation
+находится в	country
+имеет супруга(у)	hasoccupation
+находится в	hasoccupation
+имеет население	hasoccupation
+имеет профессию	hasoccupation
+организация имеет члена	hasoccupation
+штаб-квартира	hasoccupation
+имеет тип	hastype
+место рождения	Yes
+лидер организации	hasoccupation
+имеет жанр	hasoccupation
+имеет население	hasoccupation
+имеет население	hasoccupation
+организация имеет основателя	hasoccupation
+имеет население	hastype
+из страны	hasoccupation
+имеет автора	hasoccupation
+имеет ребенка	hasoccupation
+организация имеет члена	hasoccupation
+имеет профессию	hasoccupation
+организация имеет основателя	hasoccupation
+штаб-квартира	hasoccupation
+получил(а) награду	hasoccupation
+организация имеет основателя	hasoccupation
+место рождения	place of birth
+штаб-квартира	hasoccupation
+имеет население	hastype
+находится в	hasoccupation
+первый продукт	hasoccupation
+из страны	hasoccupation
+имеет брата или сестру	hasoccupation
+место рождения	hasoccupation
+имеет тип	hasoccupation
+место рождения	Location
+имеет жанр	hastype
+имеет тип	hasoccupation
+имеет автора	hasoccupation
+имеет тип	hasoccupation
+место рождения	hasoccupation
+имеет тип	hastype
+штаб-квартира	hasoccupation
+находится в	hasoccupation
+находится в	hasoccupation
+имеет население	hastype
+имеет тип	hastype
+из страны	hasoccupation
+лидер организации	hasoccupation
+имеет автора	hasoccupation
+находится в	country
+фильм имеет режиссера	hasoccupation
+место рождения	hastype
+с участием	hasoccupation
+организация имеет основателя	hasoccupation
+получил(а) награду	hasoccupation
+фильм имеет режиссера	hasoccupation

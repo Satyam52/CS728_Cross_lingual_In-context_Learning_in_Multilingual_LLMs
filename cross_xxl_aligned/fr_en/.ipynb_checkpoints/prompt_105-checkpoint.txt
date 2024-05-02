@@ -1,0 +1,51 @@
+Considérez un domaine où seules les relations suivantes peuvent exister entre deux entités : 
+
+{{lieu de naissance}}
+{{du pays}}
+{{siège social}}
+{{a pour enfant}}
+{{est situé(e) à}}
+{{a une population}}
+{{a une éducation}}
+{{est membre de}}
+{{mettant en vedette}}
+{{aucune relation}}
+{{a une occupation}}
+{{a pour auteur}}
+{{année de l'événement}}
+{{premier produit}}
+{{a remporté un prix}}
+{{a un genre}}
+{{a un frère ou une sœur}}
+{{a un type}}
+{{a un parent}}
+{{film réalisé par}}
+{{a un conjoint}}
+{{organisation fondée par}}
+{{leader de l'organisation}}
+{{organisation a pour membre}}
+
+Étant donné les exemples suivants,
+
+Déclaration: {{modifier Isaia Rasila, né le 29 avril 1969 à Vunavutu (Fidji) et mort le 8 octobre 2010 à Rakirakilevu, est un joueur de rugby à XV, qui a joué avec l'équipe de Fidji, dont il fut aussi le capitaine, et qui évolue au poste de talonneur.}}
+{{lieu de naissance}} décrit le mieux la relation entre {{Isaia Rasila}} et {{Fidji}}
+
+Déclaration: {{Tahult est une localité de Suède située dans la commune de Härryda du comté de Västra Götaland.}}
+{{est situé(e) à}} décrit le mieux la relation entre {{Tahult}} et {{Suède}}
+
+Déclaration: {{Al Pacino Johnny Depp Michael Madsen Pour plus de détails, voir Fiche technique et Distribution Donnie Brasco est un film américain réalisé par Mike Newell et sorti en 1997.}}
+{{film réalisé par}} décrit le mieux la relation entre {{Donnie Brasco}} et {{Mike Newell}}
+
+Déclaration: {{AllMusic Albums de Gary Burton Matchbook(1974) Passengers(1976) modifier Dreams So Real est un album du vibraphoniste de jazz américain Gary Burton enregistré en décembre 1975 et commercialisé en 1976.}}
+{{a un genre}} décrit le mieux la relation entre {{Dreams So Real}} et {{jazz}}
+
+Déclaration: {{Dario Resta, dit Dolly (né le 17 août 1884 à Livourne et mort le 2 septembre 1924 (à 42 ans) sur le circuit de Brooklands, dans le Surrey) est un pilote automobile résident américain sur circuits, d'origine italienne et de nationalité britannique (immigré à deux ans).}}
+{{lieu de naissance}} décrit le mieux la relation entre {{Dario Resta}} et {{Livourne}}
+
+
+
+Statement: {{Gunnel Vallquist (19 June 1918 – 11 January 2016) was a Swedish writer and translator.}}
+
+
+What relation best describes the relation between {{Gunnel Vallquist}} and {{Swedish}} from the list of relations given above?
+    

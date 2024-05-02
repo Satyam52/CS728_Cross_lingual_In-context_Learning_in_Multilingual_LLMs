@@ -1,0 +1,11 @@
+actual	generated
+has-type	has-parent
+from-country	starring
+is-where	has-edu
+birth-place	starring
+is-where	has-edu
+is-where	from-country
+org-has-member	has-population
+birth-place	has-child
+from-country	from-country
+has-type	starring

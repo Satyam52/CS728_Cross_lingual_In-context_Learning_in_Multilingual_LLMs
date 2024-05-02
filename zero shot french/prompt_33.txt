@@ -1,0 +1,25 @@
+
+Considérez l'énoncé suivant comme vérité : {{Une statue pour père (titre original : A Statue for Father) est une nouvelle de science-fiction d'Isaac Asimov, parue en février 1959 dans le magazine Satellite Science Fiction (en) et publiée en langue française dans le recueil Cher Jupiter.}}.
+Quelle est la relation la plus appropriée entre {{Une statue pour père}} et {{Isaac Asimov}} parmi les options suivantes ?
+
+{{a un parent}}
+{{a un conjoint}}
+{{a un auteur}}
+{{l'organisation a un membre}}
+{{année de l'événement}}
+{{est membre de}}
+{{le film a un réalisateur}}
+{{lieu de naissance}}
+{{du pays}}
+{{a une éducation}}
+{{chef d'organisation}}
+{{aucune relation}}
+{{a le type}}
+{{situé à}}
+{{l'organisation a un fondateur}}
+{{siège social}}
+{{a un genre}}
+{{a une profession}}
+
+Veuillez choisir l'option la plus appropriée parmi les choix donnés
+    

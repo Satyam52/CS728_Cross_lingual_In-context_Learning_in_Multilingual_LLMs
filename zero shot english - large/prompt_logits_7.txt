@@ -1,0 +1,4 @@
+
+Consider the following statement as truth: Sokoband, formerly known as Soko, is a jazz fusion duo, featuring pianist Michael Sokolowski and bassist Houston Ross.
+event year best describes the relation between Sokoband and Michael Sokolowski based on above provided sentence.
+    

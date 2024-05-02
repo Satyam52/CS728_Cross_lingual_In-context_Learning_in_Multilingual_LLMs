@@ -1,0 +1,77 @@
+Рассмотрим область, где могут существовать только следующие отношения между любыми двумя сущностями: 
+
+{{первый продукт}}
+{{является членом}}
+{{фильм имеет режиссера}}
+{{с участием}}
+{{получил(а) награду}}
+{{имеет образование}}
+{{организация имеет основателя}}
+{{имеет ребенка}}
+{{имеет брата или сестру}}
+{{имеет население}}
+{{находится в}}
+{{место рождения}}
+{{нет отношения}}
+{{имеет жанр}}
+{{из страны}}
+{{имеет профессию}}
+{{организация имеет члена}}
+{{лидер организации}}
+{{год события}}
+{{имеет тип}}
+{{имеет автора}}
+{{имеет родителя}}
+{{штаб-квартира}}
+{{имеет супруга(у)}}
+
+Учитывая следующие примеры,
+
+Утверждение: {{Ларри Фонг (; род. 19 июля 1960, Лос-Анджелес, США) — американский кинооператор.}}
+has-occupation лучше всего описывает отношение между {{Ларри Фонг}} и {{оператор}}
+
+Утверждение: {{Леонор Балдаки (, 27 января 1977, Порту) — португальская киноактриса.}}
+has-occupation лучше всего описывает отношение между {{Леонор Балдак}} и {{актриса}}
+
+Утверждение: {{Веспен (нем. Население составляет 238 человек (на 31 декабря 2006 года).}}
+has-population лучше всего описывает отношение между {{Веспен}} и {{238}}
+
+Утверждение: {{Мэрион Мак (, настоящее имя Джой Мэрион Маккрири (); 8 апреля 1902 — 1 мая 1989) — американская актриса эпохи немого кино, сценарист.}}
+has-occupation лучше всего описывает отношение между {{Мэрион Мак}} и {{актриса}}
+
+Утверждение: {{мини|слева|Островок Крошечный остров () примерно в 100 метрах от Кероса в прошлом был мысом, отделённым от Кероса землетрясением.}}
+has-population лучше всего описывает отношение между {{Керос}} и {{0}}
+
+
+
+Given,
+In English {{первый продукт}} means {{first product}}
+In English {{является членом}} means {{is member of}}
+In English {{фильм имеет режиссера}} means {{movie has director}}
+In English {{с участием}} means {{starring}}
+In English {{получил(а) награду}} means {{won award}}
+In English {{имеет образование}} means {{has education}}
+In English {{организация имеет основателя}} means {{organization has founder}}
+In English {{имеет ребенка}} means {{has child}}
+In English {{имеет брата или сестру}} means {{has sibling}}
+In English {{имеет население}} means {{has population}}
+In English {{находится в}} means {{located in}}
+In English {{место рождения}} means {{birth place}}
+In English {{нет отношения}} means {{no relation}}
+In English {{имеет жанр}} means {{has genre}}
+In English {{из страны}} means {{from country}}
+In English {{имеет профессию}} means {{has occupation}}
+In English {{организация имеет члена}} means {{organization has member}}
+In English {{лидер организации}} means {{organization leader}}
+In English {{год события}} means {{event year}}
+In English {{имеет тип}} means {{has type}}
+In English {{имеет автора}} means {{has author}}
+In English {{имеет родителя}} means {{has parent}}
+In English {{штаб-квартира}} means {{headquarters}}
+In English {{имеет супруга(у)}} means {{has spouse}}
+
+Statement: {{Spaghetti House is a 1982 Italian comedy film directed by Giulio Paradisi.}}
+
+
+What relation best describes the relation between {{Spaghetti House}} and {{Giulio Paradisi}} from the list of relations given above?
+    

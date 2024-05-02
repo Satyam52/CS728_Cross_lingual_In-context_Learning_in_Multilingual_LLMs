@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Dasht-e Palang () is a village in Tasuj Rural District, Shonbeh and Tasuj District, Dashti County, Bushehr Province, Iran. At the 2006 census, its population was 38, in 10 families.}}.
+What is the most appropriate relation between {{Dasht-e Palang}} and {{38}} from the following options?
+
+{{located in}}
+{{has population}}
+{{has parent}}
+{{from country}}
+{{movie has director}}
+{{won award}}
+{{has genre}}
+{{organization leader}}
+{{is member of}}
+{{first product}}
+{{no relation}}
+{{has occupation}}
+{{has education}}
+{{starring}}
+{{birth place}}
+{{has child}}
+{{has type}}
+{{organization has founder}}
+{{headquarters}}
+{{has sibling}}
+{{event year}}
+{{has author}}
+{{has spouse}}
+{{organization has member}}
+
+Please choose the most suitable option from the given choices.
+    

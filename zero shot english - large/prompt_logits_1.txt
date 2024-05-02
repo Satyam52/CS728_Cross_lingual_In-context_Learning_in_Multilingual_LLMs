@@ -1,0 +1,4 @@
+
+Consider the following statement as truth: North West Coastal Highway is a generally north-south Western Australian highway which links the coastal city of Geraldton with the town of Port Hedland.
+event year best describes the relation between North West Coastal Highway and highway based on above provided sentence.
+    

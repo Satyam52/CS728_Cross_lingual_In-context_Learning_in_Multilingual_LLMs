@@ -1,0 +1,4 @@
+
+Consider the following statement as truth: Bobana Klikovac (born 19 July 1995) is a Montenegrin handball player who plays for Liga Națională club Gloria Buzău and the Montenegro national team.
+event year best describes the relation between Bobana Klikovac and Montenegrin based on above provided sentence.
+    

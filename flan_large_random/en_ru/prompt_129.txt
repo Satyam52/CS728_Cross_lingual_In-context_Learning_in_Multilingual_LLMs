@@ -1,0 +1,36 @@
+Consider a domain where only the following relations can exist between any two entities:
+
+{{event year}}
+{{has population}}
+{{has education}}
+{{from country}}
+{{has genre}}
+{{no relation}}
+{{organization has member}}
+{{has type}}
+{{has occupation}}
+
+Given the following examples,
+
+Statement: {{Tree Pit is an English Rock band formed in London, England, in 2008 by Lior Seker (lead vocals and guitar), Yaron Rosenblum (drums), .}}
+{{organization has member}} best describes the relation between {{Tree Pit}} and {{Yaron Rosenblum}}
+
+Statement: {{Gilles Grangier (5 May 1911 – 27 April 1996) was a French film director and screenwriter.}}
+{{has occupation}} best describes the relation between {{Gilles Grangier}} and {{film director}}
+
+Statement: {{Alice Annum (born 20 October 1948 in Accra) is a retired Ghanaian sprinter.}}
+{{from country}} best describes the relation between {{Alice Annum}} and {{Ghanaian}}
+
+Statement: {{Marc Silvestri (born March 29, 1958) is an American comic book artist, creator and publisher.}}
+{{has type}} best describes the relation between {{Marc Silvestri}} and {{creator}}
+
+Statement: {{Herbstleyd (Autumn Suffering) is the debut studio album of the black metal band Nargaroth.}}
+{{has type}} best describes the relation between {{Herbstleyd}} and {{studio}}
+
+
+
+Утверждение: {{29 апреля 1970 года, Новый Орлеан, Луизиана, США), известный под сценическим именем Мастер Пи () в бизнесе использующий имя Пи Миллер () — американский рэпер, актёр, предприниматель, инвестор, автор, кинопроизводитель, музыкальный продюсер, филантроп и бывший баскетболист.}}
+
+
+Какое отношение лучше всего описывает отношение между {{Мастер П}} и {{филантроп}} из списка отношений, указанных выше?
+    

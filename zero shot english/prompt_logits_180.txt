@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Maynah Lewis /ˈmaɪnə/ (née Mclntire; 14 April 1919 in Liverpool, Lancashire, England – 16 July 1988) was a British writer of 23 gothic and romance novels.}}.
+What is the most appropriate relation between {{Maynah Lewis}} and {{romance novel}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

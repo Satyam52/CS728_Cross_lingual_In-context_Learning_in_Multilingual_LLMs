@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Cájar is a city located in the province of Granada, Spain. According to the 2005 census (INE), the city has a population of 4051 inhabitants.}}.
+What is the most appropriate relation between {{Cájar}} and {{4051}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

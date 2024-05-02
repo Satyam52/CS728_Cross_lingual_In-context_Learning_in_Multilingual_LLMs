@@ -1,0 +1,45 @@
+Consider a domain where only the following relations can exist between any two entities:
+
+{{has spouse}}
+{{event year}}
+{{organization has member}}
+{{organization leader}}
+{{located in}}
+{{is member of}}
+{{organization has founder}}
+{{no relation}}
+{{has education}}
+{{has parent}}
+{{has author}}
+{{has genre}}
+{{movie has director}}
+{{headquarters}}
+{{from country}}
+{{birth place}}
+{{has type}}
+{{has occupation}}
+
+Given the following examples,
+
+Statement: {{Six Stories is a short story collection by Stephen King, published in 1997 by Philtrum Press.}}
+{{has author}} best describes the relation between {{Six Stories}} and {{Stephen King}}
+
+Statement: {{Farmakon was a Finnish progressive death metal band formed in 2001. The band was made up of guitarist/vocalist Toni Salminen, vocalist Marko Eskola, and bassist Pekka Kauppila.}}
+{{organization has member}} best describes the relation between {{Farmakon}} and {{Toni Salminen}}
+
+Statement: {{Intransitive Recordings was an independent record label for experimental music, founded by the artist Howard Stelzer. Intransitive published electro-acoustic music, free improvisation, sound art, sound poetry, and noise music between its start in 1997 until its ending in 2012.}}
+{{has genre}} best describes the relation between {{Intransitive Recordings}} and {{free improvisation}}
+
+Statement: {{Soldier's Gun is the first studio album by the Norwegian hard rock band Stage Dolls. The album was recorded in the fall of 1984 at Nidaros Studios in Trondheim, Norway with the same producer, Bjørn Nessjø, and engineer, Rune Nordahl, as fellow Trondheim hard-rockers TNT.}}
+{{has type}} best describes the relation between {{Soldier's Gun}} and {{Studio}}
+
+Statement: {{The Philippine National Police (Filipino: Pambansang Pulisya ng Pilipinas, abbreviated PNP) is the armed, civilian national police force in the Philippines. Its national headquarters is at Camp Crame in Quezon City, Metro Manila, and it has 205,000 personnel.}}
+{{headquarters}} best describes the relation between {{Philippine National Police}} and {{Camp Crame}}
+
+
+
+Déclaration: {{modifier Niels Viggo Bentzon (Copenhague, 24 août 1919 - Copenhague, 25 avril 2000) est un compositeur et pianiste danois.}}
+
+
+Quelle relation décrit le mieux la relation entre {{Niels Viggo Bentzon}} et {{Copenhague}} à partir de la liste des relations données ci-dessus?
+    

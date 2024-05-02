@@ -1,0 +1,201 @@
+actual	generated
+birth place	hastype
+has type	hastype
+movie has director	hastype
+has occupation	hasoccupation
+movie has director	hasoccupation
+birth place	instance of
+has genre	Yes
+birth place	hastype
+birth place	The relation between Vickie Ree Principal and entrepreneur
+birth place	No
+has genre	hastype
+birth place	hastype
+movie has director	hasoccupation
+has occupation	No
+has type	hastype
+birth place	No
+has author	hastype
+has occupation	hasoccupation
+has occupation	hastype
+from country	hastype
+birth place	Where did Niels Viggo Bentzon die
+has type	hastype
+birth place	Where is the name of the political party
+located in	No
+located in	hastype
+movie has director	instance of
+located in	hastype
+birth place	where is Victoria Principal born
+movie has director	hastype
+has author	hastype
+has genre	No
+organization has member	hastype
+has author	instance of
+has occupation	hasoccupation
+event year	instance of
+headquarters	hastype
+has type	hastype
+located in	hastype
+birth place	hasoccupation
+movie has director	hasoccupation
+has parent	No
+has occupation	hastype
+movie has director	hastype
+located in	country
+located in	hastype
+located in	hastype
+birth place	Where did Jochen Rindt die
+has genre	hastype
+located in	hastype
+located in	hastype
+movie has director	hasoccupation
+birth place	No
+movie has director	instance of
+movie has director	hasoccupation
+located in	hastype
+has occupation	hastype
+birth place	hastype
+birth place	No
+birth place	haveoccupation
+birth place	Yes
+has author	hasoccupation
+movie has director	hastype
+from country	where is narrower
+birth place	No
+birth place	hastype
+birth place	hasspouse
+birth place	hastype
+has type	hastype
+birth place	headquarters
+birth place	where is Walter Goehr from
+movie has director	hasoccupation
+is member of	hasspouse
+birth place	Location
+movie has director	No
+has type	hastype
+birth place	hastype
+has genre	hastype
+has occupation	Hastype
+has genre	Hastype
+birth place	No
+birth place	hastype
+located in	No
+birth place	Yes
+birth place	hastype
+has occupation	hasoccupation
+has occupation	hasoccupation
+has genre	No
+birth place	No
+birth place	hastype
+has genre	hastype
+birth place	relationship
+birth place	hastype
+birth place	hasoccupation
+movie has director	Personnalité
+has type	hastype
+has occupation	No
+located in	hastype
+birth place	where is albert Steffen born
+birth place	hastype
+has author	hastype
+birth place	description
+located in	located in
+birth place	where is the relative between Victoria Principal and David Head
+birth place	hasoccupation
+has occupation	hastype
+located in	located in
+has occupation	No
+organization has member	hasspouse
+birth place	instance of
+has type	hastype
+located in	No
+movie has director	hasspouse
+from country	No
+has author	hastype
+birth place	hastype
+has type	Yes
+birth place	Haswife best describes the relation between Matt Bevin and Kentucky
+birth place	hasspouse
+has type	hastype
+birth place	location in
+birth place	hasspouse
+has genre	hastype
+located in	No
+located in	hastype
+has spouse	hasoccupation
+located in	No
+birth place	hastype
+birth place	located in
+birth place	where is the movie where is john fielding
+has genre	hastype
+birth place	hasoccupation
+birth place	Person in a given location
+birth place	No
+birth place	located in
+has occupation	hasoccupation
+from country	relationship
+is member of	hasoccupation
+birth place	where is Neil Aggett born
+has occupation	hastype
+birth place	located in
+has occupation	hasoccupation
+located in	hastype
+has type	hastype
+movie has director	hasspouse
+birth place	hastype
+has occupation	hasoccupation
+located in	hastype
+has occupation	hasoccupation
+movie has director	has spouse
+has genre	hastype
+organization has founder	hasoccupation
+located in	No
+birth place	Where does Fredric Brown live
+has author	hastype
+has occupation	hastype
+has type	hastype
+birth place	No
+movie has director	Personnages
+movie has director	hasoccupation
+has education	hastype
+has occupation	hasoccupation
+has type	hastype
+has occupation	hastype
+has occupation	hasoccupation
+has occupation	hasoccupation
+organization leader	hasoccupation
+no relation	Hastype
+birth place	hastype
+birth place	hastype
+has type	Relationship
+located in	No
+organization has founder	hastype
+located in	hastype
+birth place	located in
+has type	hastype
+birth place	hastype
+birth place	hasoccupation
+has type	hasoccupation
+from country	hasoccupation
+located in	hasoccupation
+birth place	hastype
+from country	No
+located in	located in
+organization has member	hasspouse
+birth place	No
+located in	hastype
+birth place	located in
+no relation	No
+is member of	hastype
+movie has director	hasperson
+movie has director	hasspouse
+movie has director	Hasoccupation
+has occupation	hastype
+from country	hasoccupation
+birth place	hastype
+located in	No
+birth place	hastype
+has type	hastype
+birth place	hastype
+located in	No

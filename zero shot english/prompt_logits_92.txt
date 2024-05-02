@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Greg Jessop is a fictional character from the BBC soap opera EastEnders, played by Stefan Booth. He is introduced as the fiancé of Tanya Branning (Jo Joyner), and first appeared on screen on 1 October 2010 to work on the reconstruction of The Queen Victoria.}}.
+What is the most appropriate relation between {{Greg Jessop}} and {{Tanya Branning}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Adolf Szyszko-Bohusz (born 1 September 1883, Narva – died 1 October 1948, Kraków) was a Polish architect and conservator of monuments, a leading representative of historicism and modernism in Poland.}}.
+What is the most appropriate relation between {{Adolf Szyszko-Bohusz}} and {{Narva}} from the following options?
+
+{{has spouse}}
+{{has occupation}}
+{{no relation}}
+{{has child}}
+{{has type}}
+{{event year}}
+{{organization has founder}}
+{{has sibling}}
+{{from country}}
+{{has author}}
+{{has education}}
+{{has genre}}
+{{has population}}
+{{won award}}
+{{first product}}
+{{headquarters}}
+{{birth place}}
+{{organization leader}}
+{{located in}}
+{{is member of}}
+{{starring}}
+{{has parent}}
+{{organization has member}}
+{{movie has director}}
+
+Is this the most suited relation chosen from the above given list for the given truth.
+{{movie has director}}
+    

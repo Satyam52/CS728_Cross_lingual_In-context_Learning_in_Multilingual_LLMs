@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Wycliffe Kiyingi (1929 – 15 November 2014) was a Ugandan playwright whose plays influenced the free travelling theatre at Makerere University in the mid-1960s.}}.
+What is the most appropriate relation between {{Wycliffe Kiyingi}} and {{Ugandan}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

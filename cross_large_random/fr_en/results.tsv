@@ -1,0 +1,201 @@
+actual	generated
+has type	relations
+from country	No
+located in	Nom
+birth place	Location
+located in	Déclaration
+located in	No
+organization has member	relation
+birth place	lieu de naissance
+from country	Yes
+has type	une relation entre
+has author	No
+birth place	country of citizenship
+birth place	Personnalité et éducation
+located in	la relation entre deux entités
+located in	Location
+has author	Personnalité
+movie has director	lieu de naissance
+headquarters	instance of
+headquarters	lieu de naissance
+has author	Personnalité
+headquarters	Declaration
+located in	lieu de naissance
+has occupation	Personnalité
+has genre	groupe
+has author	Personnalité
+has type	relation entre
+has population	relation
+organization has member	relation
+movie has director	lieu de naissance
+has population	Declaration
+has genre	Genre
+movie has director	auteur
+has occupation	Declaration
+has author	description
+has type	a un type
+located in	No
+birth place	Personnalité
+from country	lieu de naissance
+from country	No
+organization has member	Personnalité
+is member of	lieu de naissance
+birth place	Personnalité
+has education	lieu de naissance
+has education	Personnalité
+located in	Déclaration
+headquarters	lieu de naissance
+organization has member	lieu de naissance
+located in	lieu de naissance
+has author	auteur
+from country	Nom
+has type	Le domaine où seules les relations sont possibles dans un domaine où seules les relations peuvent exister entre deux entités 
+has author	relation
+located in	Declaration
+has child	relation
+has occupation	Personnalité
+birth place	Location
+birth place	lieu de naissance
+is member of	No
+birth place	lieu de naissance
+located in	commune
+has genre	genre
+is member of	le mieux la relation entre Marcell Takács et FC Schötz
+has education	Déclaration
+has author	Personnalité
+headquarters	de la relation avec
+birth place	lieu de naissance
+is member of	relation entre
+located in	Declaration
+from country	religion
+has occupation	relation
+organization has member	Declaration
+located in	relation
+has population	relation
+headquarters	lieu de naissance
+won award	Personnalité
+from country	No
+has author	décrit le mieux la relation entre Iron Monkey et Yuen Wooping
+has type	Nom de lorganisme
+has genre	relation
+from country	relation
+has education	lieu de naissance
+has population	population
+has type	relation
+organization has member	brothers
+no relation	Personnalité
+birth place	Déclaration
+has sibling	relation
+movie has director	contact
+has sibling	lieu de naissance
+birth place	location
+has type	lieu de naissance
+has spouse	relation
+has education	décrit le mieux la relation entre Gottlieben et Suisse
+has type	a une éducation
+has occupation	Personnalité
+organization has member	Personnalité
+has author	Personnalité
+from country	Yes
+event year	Date de lévénement
+has occupation	lieu de naissance
+has occupation	Les relations entre les deux entités
+organization has member	Personnalité
+birth place	relation entre
+has author	décrit le mieux la relation entre Laughing in the Jungle et Louis Adamic
+from country	No
+has type	relations entre
+has type	Personnalité
+located in	lieu de naissance
+headquarters	No
+organization has founder	religion
+organization has member	Personnalité
+has occupation	Declaration
+located in	lieu de naissance
+organization has member	lieu de naissance
+has type	Nom de lorganisation
+has author	Personnalité
+organization has member	Déclaration
+has occupation	lieu de naissance
+has parent	lieu de naissance
+has occupation	Personnalité
+has author	Personnalité
+from country	Je suis un journaliste Je suis un acteur britannique Je suis un homme politique haïtien Je suis toujours membre dune organisation Je suis toujours membre dun groupe britannique Je suis un homme politique allemand Je suis un homme politique allemand Je suis un homme politique allemand Je suis un homme politique allemand Je suis un homme politique allemand
+birth place	Location
+headquarters	une relation
+has type	relation
+has author	de la relation entre
+located in	Location
+has occupation	notable
+has education	Declaration
+has author	No
+has genre	relation entre
+has occupation	Nom de lorganisation
+has author	Personnalité 
+organization has member	def identifiere
+has genre	Le genre dorganisation
+has population	dans la population
+has author	Personnalité
+has occupation	descendant
+from country	No
+has type	Declaration
+birth place	Location
+movie has director	lieu de naissance
+has education	Personnellement Billy Strother a été un footballeur actif dans léquipe de football américaine Il a été président de la République du Haiti du 17 octobre 1889 jusquà sa mort le 24 mars 1896 Il a été membre de lorganisation britannique Sugababes la société britannique à qui il appartient
+birth place	déclaration
+has genre	No
+located in	country
+has spouse	Personnalité
+located in	No
+has population	Étudiez les relations avec lorganisation
+has occupation	Personnalité
+organization has member	Personnalité
+headquarters	lieu de naissance
+has type	décrit le mieux la relation entre Iron Monkey et Yuen Wooping
+birth place	décrit le mieux la relation entre Zahra Dowlatabadi et Iran
+organization leader	No
+has genre	genre
+has population	relation
+has population	relations entre deux entités
+organization has founder	Personnalité
+has population	lieu de naissance
+from country	No
+has author	lieu de naissance
+has child	lieu de naissance
+organization has member	Personnalité
+has occupation	lieu de naissance
+organization has founder	lieu de naissance
+headquarters	Déclaration
+won award	relation
+organization has founder	déclaration
+birth place	parent
+headquarters	décrit le mieux la relation entre Gottlieben et Suisse
+has population	population
+located in	No
+first product	relations entre deux entités
+from country	Nom de lorganisation
+has sibling	religion
+birth place	Location
+has type	genre
+birth place	Location
+has genre	relation
+has type	Film
+has author	Personnages
+has type	relation
+birth place	relations
+has type	No
+headquarters	Nom de lorganisation
+located in	Déclaration
+located in	Declaration
+has population	lieu de naissance
+has type	association
+from country	le genre
+organization leader	Personnalité
+has author	Personnalité
+located in	relations
+movie has director	Personnalité
+birth place	lieu de naissance
+starring	Personnalité
+organization has founder	lieu de naissance
+won award	Yes
+movie has director	relation

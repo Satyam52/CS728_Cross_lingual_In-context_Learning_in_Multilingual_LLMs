@@ -1,0 +1,25 @@
+
+Considérez l'énoncé suivant comme vérité : {{Mike Hall (né le 4 juin 1981 à Harrogate (Yorkshire du Nord, Angleterre) et mort le 31 mars 2017 près de Royalla, sur la Monaro Highway (ACT, Australie), est un cycliste britannique, spécialiste des courses d'ultra longue distance.}}.
+Quelle est la relation la plus appropriée entre {{Mike Hall}} et {{Harrogate}} parmi les options suivantes ?
+
+{{a un parent}}
+{{a un conjoint}}
+{{a un auteur}}
+{{l'organisation a un membre}}
+{{année de l'événement}}
+{{est membre de}}
+{{le film a un réalisateur}}
+{{lieu de naissance}}
+{{du pays}}
+{{a une éducation}}
+{{chef d'organisation}}
+{{aucune relation}}
+{{a le type}}
+{{situé à}}
+{{l'organisation a un fondateur}}
+{{siège social}}
+{{a un genre}}
+{{a une profession}}
+
+Veuillez choisir l'option la plus appropriée parmi les choix donnés
+    

@@ -1,0 +1,36 @@
+Consider a domain where only the following relations can exist between any two entities:
+
+{{has population}}
+{{has type}}
+{{has education}}
+{{has occupation}}
+{{has genre}}
+{{event year}}
+{{located in}}
+{{no relation}}
+{{has nationality}}
+
+Given the following examples,
+
+Statement: {{Dan Coudreaut (born November 8, 1965) is an American chef. He was the executive chef and vice president of culinary innovation at McDonald's from 2004 to 2018.}}
+{{has occupation}} best describes the relation between {{Dan Coudreaut}} and {{executive chef}}
+
+Statement: {{He went to school in Paarl at Paarl Gimnasium before going to university at the University of Stellenbosch, where he played for the university's rugby team. Pieter Rossouw made his debut for Western Province in 1994.}}
+{{has education}} best describes the relation between {{Pieter Rossouw}} and {{University of Stellenbosch}}
+
+Statement: {{Wilbert Vere Awdry, OBE (15 June 1911 – 21 March 1997) was an English Anglican cleric, railway enthusiast, and children's author.}}
+{{has nationality}} best describes the relation between {{Wilbert Vere Awdry}} and {{English}}
+
+Statement: {{One (formerly Suffolk One) is a sixth form college in Ipswich in the English county of Suffolk.}}
+{{located in}} best describes the relation between {{One}} and {{Ipswich}}
+
+Statement: {{Wasim Sajjad (; born 30 March 1941) is a Pakistani conservative politician and lawyer who served as the acting President of Pakistan for two non-consecutive terms and as the Chairman of the Senate between 1988 and 1999.}}
+{{has nationality}} best describes the relation between {{Wasim Sajjad}} and {{Pakistani}}
+
+
+
+Утверждение: {{Мэрион Рэмси (; род. 10 мая 1947, Филадельфия, Пенсильвания) — американская актриса.}}
+
+
+Какое отношение лучше всего описывает отношение между {{Мэрион Рэмси}} и {{актриса}} из списка отношений, указанных выше?
+    

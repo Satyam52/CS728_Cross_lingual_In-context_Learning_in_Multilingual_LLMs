@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Mizrahi, Moshe. " Protecting the Trust: Harav Yehuda Tzadka, zt " l & ndash; His vision, his sacrifices and the legacy he left for us, twenty years after his petirah " .}}.
+What is the most appropriate relation between {{Yehuda Tzadka}} and {{Moshe}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

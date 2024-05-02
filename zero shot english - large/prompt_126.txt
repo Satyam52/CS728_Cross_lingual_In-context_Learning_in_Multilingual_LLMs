@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Janus: A Summing Up is a 1978 book by Arthur Koestler, in which the author develops his philosophical idea of the holarchy.}}.
+What is the most appropriate relation between {{Janus: A Summing Up}} and {{Arthur Koestler}} from the following options?
+
+{{located in}}
+{{has population}}
+{{has parent}}
+{{from country}}
+{{movie has director}}
+{{won award}}
+{{has genre}}
+{{organization leader}}
+{{is member of}}
+{{first product}}
+{{no relation}}
+{{has occupation}}
+{{has education}}
+{{starring}}
+{{birth place}}
+{{has child}}
+{{has type}}
+{{organization has founder}}
+{{headquarters}}
+{{has sibling}}
+{{event year}}
+{{has author}}
+{{has spouse}}
+{{organization has member}}
+
+Please choose the most suitable option from the given choices.
+    

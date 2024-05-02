@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Arthur Michael Shepley-Smith (29 September 1907 – 28 September 1961), known professionally as Michael Shepley, was a British actor, appearing in theatre, film and some television between 1929 and 1961.}}.
+What is the most appropriate relation between {{Michael Shepley}} and {{actor}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

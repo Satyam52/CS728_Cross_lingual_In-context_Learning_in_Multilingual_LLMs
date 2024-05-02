@@ -1,0 +1,36 @@
+Consider a domain where only the following relations can exist between any two entities:
+
+{{has population}}
+{{headquarters}}
+{{has type}}
+{{has education}}
+{{has occupation}}
+{{has genre}}
+{{from country}}
+{{event year}}
+{{no relation}}
+
+Given the following examples,
+
+Statement: {{Fieldfisher LLP is a European law firm headquartered in London, United Kingdom.}}
+{{headquarters}} best describes the relation between {{Fieldfisher}} and {{London}}
+
+Statement: {{Tony Ricciardello, (born 19 March 1979), is a multiple-championship winning Australian race car driver.}}
+{{from country}} best describes the relation between {{Tony Ricciardello}} and {{Australia}}
+
+Statement: {{Viaggio Air (VM) was a private airline based and registered in Sofia, Bulgaria in September 2002.}}
+{{headquarters}} best describes the relation between {{Viaggio Air}} and {{Sofia}}
+
+Statement: {{PCH Games (formerly Candystand.com) is a casual game portal owned by Publishers Clearing House and based in New York City.}}
+{{headquarters}} best describes the relation between {{PCH Games}} and {{New York City}}
+
+Statement: {{Eskimo Snow is the third studio album by American band Why?.}}
+{{has type}} best describes the relation between {{Eskimo Snow}} and {{studio album}}
+
+
+
+Утверждение: {{Франческо Барилли (, 4 февраля, 1943, Парма) — итальянский актёр, режиссёр кино, сценарист и художник-сюрреалист.}}
+
+
+Какое отношение лучше всего описывает отношение между {{Франческо Барилли}} и {{актёр}} из списка отношений, указанных выше?
+    

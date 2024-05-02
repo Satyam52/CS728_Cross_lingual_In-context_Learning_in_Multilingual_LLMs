@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Lucia Evans (born 1982) is an Irish-Zimbabwean singer and winner of the 2006 season of the talent show You're a Star.}}.
+What is the most appropriate relation between {{Lucia Evans}} and {{the 2006 season of the talent show You're a Star}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

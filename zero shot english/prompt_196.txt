@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Pierre Lelong (14 March 1912 Paris – 12 October 2011) was a French mathematician who introduced the Poincaré–Lelong equation, the Lelong number and the concept of plurisubharmonic function.}}.
+What is the most appropriate relation between {{Pierre Lelong}} and {{Paris}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

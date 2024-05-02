@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{German submarine U-546 was a Type IXC/40 U-boat operated by Nazi Germany's Kriegsmarine during World War II.}}.
+What is the most appropriate relation between {{German submarine U-546}} and {{Nazi Germany}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

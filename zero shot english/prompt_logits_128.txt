@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Aurther Mandela (born 18 February 1990), better known as Xtian Dela, is a Kenyan YouTuber, blogger, social media personality and a radio presenter.}}.
+What is the most appropriate relation between {{Xtian Dela}} and {{blogger}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

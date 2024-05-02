@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{On his retirement in 1981 he was appointed an Officer of the Order of the British Empire (OBE) for his services to rugby.}}.
+What is the most appropriate relation between {{he}} and {{Order of the British Empire}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

@@ -1,0 +1,51 @@
+Considérez un domaine où seules les relations suivantes peuvent exister entre deux entités : 
+
+{{a un type}}
+{{aucune relation}}
+{{a une éducation}}
+{{lieu de naissance}}
+{{a une population}}
+{{a un genre}}
+{{est situé(e) à}}
+{{a pour auteur}}
+{{a une occupation}}
+{{film réalisé par}}
+{{année de l'événement}}
+
+Étant donné les exemples suivants,
+
+Déclaration: {{Mariano di Jacopo dit il Taccola (1382 à Sienne - vers 1453), appelé Taccola (« Corbeau choucas » en italien), est un administrateur italien, artiste et ingénieur siennois du début de la Renaissance.}}
+birth-place décrit le mieux la relation entre {{Taccola}} et {{Sienne}}
+
+Déclaration: {{Pour plus de détails, voir Fiche technique et Distribution Père et fille (Father and Daughter) est un court métrage d'animation réalisé par Michael Dudok de Wit et sorti en 2000.}}
+movie-has-director décrit le mieux la relation entre {{Père et fille}} et {{Michael Dudok de Wit}}
+
+Déclaration: {{Si vous avez un doute, l’atelier de lecture du projet Communes de France est à votre disposition pour vous aider. Longueval est une commune française située dans le département de la Somme, en région Hauts-de-France.}}
+is-where décrit le mieux la relation entre {{Longueval}} et {{France}}
+
+Déclaration: {{Un, deux, trois... (titre original : One, Two, Buckle My Shoe) est un roman policier d'Agatha Christie publié en novembre 1940 au Royaume-Uni, mettant en scène le détective belge Hercule Poirot.}}
+has-author décrit le mieux la relation entre {{One, Two, Buckle My Shoe}} et {{Agatha Christie}}
+
+Déclaration: {{Amby, en limbourgeois et maastrichtois Amie, est un quartier de la ville néerlandaise de Maastricht, situé dans l’arrondissement nord-est. Amby compte environ 6 300 habitants.}}
+has-population décrit le mieux la relation entre {{Amby}} et {{6}}
+
+
+
+Given,
+По-русски {{a un type}} означает {{имеет тип}}
+По-русски {{aucune relation}} означает {{нет отношения}}
+По-русски {{a une éducation}} означает {{имеет образование}}
+По-русски {{lieu de naissance}} означает {{место рождения}}
+По-русски {{a une population}} означает {{имеет население}}
+По-русски {{a un genre}} означает {{имеет жанр}}
+По-русски {{est situé(e) à}} означает {{находится в}}
+По-русски {{a pour auteur}} означает {{имеет автора}}
+По-русски {{a une occupation}} означает {{имеет профессию}}
+По-русски {{film réalisé par}} означает {{фильм имеет режиссера}}
+По-русски {{année de l'événement}} означает {{год события}}
+
+Утверждение: {{Луис Энрикес Бакалов (; 30 августа 1933, Буэнос-Айрес — 15 ноября 2017, Рим ) — аргентинский и итальянский композитор. Луис Бакалов родился в Буэнос-Айресе в семье болгарских евреев, однако он не исповедовал иудаизм , .}}
+
+
+Какое отношение лучше всего описывает отношение между {{Луис Бакалов}} и {{композитор}} из списка отношений, указанных выше?
+    

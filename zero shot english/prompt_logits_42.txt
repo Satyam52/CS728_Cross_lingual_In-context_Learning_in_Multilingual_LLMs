@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Arnar Grétarsson (born 20 February 1972 in Reykjavík) is an Icelandic former professional football player and manager who is currently unemployed after most recently managing Roeselare.}}.
+What is the most appropriate relation between {{Arnar Grétarsson}} and {{Iceland}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

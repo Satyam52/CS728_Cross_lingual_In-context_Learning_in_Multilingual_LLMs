@@ -1,0 +1,201 @@
+actual	generated
+lieu de naissance	birth place
+a un type	type
+film réalisé par	director
+a une occupation	occupation
+film réalisé par	director
+lieu de naissance	birth place
+a un genre	genre
+lieu de naissance	birth place
+lieu de naissance	country
+lieu de naissance	birth place
+a un genre	genre
+lieu de naissance	birth place
+film réalisé par	movie has director
+a une occupation	occupation
+a un type	has type
+lieu de naissance	birth place
+a pour auteur	has author
+a une occupation	occupation
+a une occupation	occupation
+du pays	country
+lieu de naissance	birth place
+a un type	instance of
+lieu de naissance	birth place
+est situé(e) à	country
+est situé(e) à	country
+film réalisé par	movie has director
+est situé(e) à	located in
+lieu de naissance	birth place
+film réalisé par	movie has director
+a pour auteur	has author
+a un genre	genre
+organisation a pour membre	leader
+a pour auteur	author
+a une occupation	occupation
+année de l'événement	event year
+siège social	headquarters
+a un type	has type
+est situé(e) à	from country
+lieu de naissance	birth place
+film réalisé par	movie has director
+a un parent	has parent
+a une occupation	organization has founder
+film réalisé par	director
+est situé(e) à	country
+est situé(e) à	located in
+est situé(e) à	country
+lieu de naissance	birth place
+a un genre	has genre
+est situé(e) à	country
+est situé(e) à	country
+film réalisé par	movie has director
+lieu de naissance	birth place
+film réalisé par	director
+film réalisé par	director
+est situé(e) à	country
+a une occupation	occupation
+lieu de naissance	birth place
+lieu de naissance	birth place
+lieu de naissance	birth place
+lieu de naissance	country of citizenship
+a pour auteur	movie has director
+film réalisé par	director
+du pays	from country
+lieu de naissance	country
+lieu de naissance	birth place
+lieu de naissance	birth place
+lieu de naissance	birth place
+a un type	has type
+lieu de naissance	birth place
+lieu de naissance	birth place
+film réalisé par	director
+est membre de	musician
+lieu de naissance	birth place
+film réalisé par	director
+a un type	instance of
+lieu de naissance	birth place
+a un genre	genre
+a une occupation	occupation
+a un genre	genre
+lieu de naissance	birth place
+lieu de naissance	birth place
+est situé(e) à	country
+lieu de naissance	birth place
+lieu de naissance	birth place
+a une occupation	occupation
+a une occupation	occupation
+a un genre	genre
+lieu de naissance	birth place
+lieu de naissance	birth place
+a un genre	production
+lieu de naissance	birth place
+lieu de naissance	birth place
+lieu de naissance	from country
+film réalisé par	director
+a un type	has type
+a une occupation	occupation
+est situé(e) à	country
+lieu de naissance	birth place
+lieu de naissance	birth place
+a pour auteur	author
+lieu de naissance	birth place
+est situé(e) à	country
+lieu de naissance	birth place
+lieu de naissance	birth place
+a une occupation	occupation
+est situé(e) à	from country
+a une occupation	occupation
+organisation a pour membre	organisation has member
+lieu de naissance	birth place
+a un type	has type
+est situé(e) à	country
+film réalisé par	director
+du pays	from country
+a pour auteur	author
+lieu de naissance	birth place
+a un type	has genre
+lieu de naissance	from country
+lieu de naissance	birth place
+a un type	type
+lieu de naissance	birth place
+lieu de naissance	birth place
+a un genre	has genre
+est situé(e) à	country
+est situé(e) à	located in
+a un conjoint	has spouse
+est situé(e) à	country
+lieu de naissance	birth place
+lieu de naissance	birth place
+lieu de naissance	birth place
+a un genre	has type
+lieu de naissance	birth place
+lieu de naissance	birth place
+lieu de naissance	birth place
+lieu de naissance	birth place
+a une occupation	occupation
+du pays	country
+est membre de	employer
+lieu de naissance	birth place
+a une occupation	occupation
+lieu de naissance	birth place
+a une occupation	occupation
+est situé(e) à	located in
+a un type	has type
+film réalisé par	movie has director
+lieu de naissance	birth place
+a une occupation	occupation
+est situé(e) à	from country
+a une occupation	occupation
+film réalisé par	director
+a un genre	has genre
+organisation fondée par	organization has founder
+est situé(e) à	from country
+lieu de naissance	birth place
+a pour auteur	author
+a une occupation	occupation
+a un type	has type
+lieu de naissance	birth place
+film réalisé par	director
+film réalisé par	movie has director
+a une éducation	organisation has parent
+a une occupation	occupation
+a un type	has type
+a une occupation	occupation
+a une occupation	occupation
+a une occupation	occupation
+leader de l'organisation	organization leader
+aucune relation	no relation
+lieu de naissance	birth place
+lieu de naissance	birth place
+a un type	has type
+est situé(e) à	country
+organisation fondée par	organization has founder
+est situé(e) à	country
+lieu de naissance	birth place
+a un type	has type
+lieu de naissance	birth place
+lieu de naissance	birth place
+a un type	occupation
+du pays	country
+est situé(e) à	country
+lieu de naissance	birth place
+du pays	country
+est situé(e) à	country
+organisation a pour membre	director
+lieu de naissance	birth place
+est situé(e) à	from country
+lieu de naissance	birth place
+aucune relation	no relation
+est membre de	association
+film réalisé par	director
+film réalisé par	director
+film réalisé par	movie has director
+a une occupation	has occupation
+du pays	from country
+lieu de naissance	birth place
+est situé(e) à	from country
+lieu de naissance	birth place
+a un type	has type
+lieu de naissance	birth place
+est situé(e) à	country

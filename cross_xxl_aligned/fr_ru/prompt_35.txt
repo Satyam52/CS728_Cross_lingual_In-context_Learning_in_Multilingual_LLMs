@@ -1,0 +1,47 @@
+Considérez un domaine où seules les relations suivantes peuvent exister entre deux entités : 
+
+{{a un type}}
+{{aucune relation}}
+{{a une éducation}}
+{{lieu de naissance}}
+{{a une population}}
+{{a un genre}}
+{{est situé(e) à}}
+{{a une occupation}}
+{{année de l'événement}}
+
+Étant donné les exemples suivants,
+
+Déclaration: {{Pierre (en , Piotr Alekseïevitch Romanov), plus connu sous le nom de Pierre le Grand (en , Piotr Vyélikiy), né le à Moscou et mort le à Saint-Pétersbourg, devient tsar de Russie en 1682 et reçoit le titre d'empereur de toutes les Russies en 1721.}}
+birth-place décrit le mieux la relation entre {{Pierre le Grand}} et {{Moscou}}
+
+Déclaration: {{modifier Steve Swallow est un bassiste et contrebassiste et compositeur de jazz américain, né le 4 octobre 1940 à New York.}}
+has-genre décrit le mieux la relation entre {{Steve Swallow}} et {{jazz}}
+
+Déclaration: {{modifier Les Bhundu Boys fut un groupe zimbabwéen qui joua un mélange de musique chimurenga avec des influences Rock 'n' roll américaines, disco, country et pop.}}
+has-genre décrit le mieux la relation entre {{Bhundu Boys}} et {{chimurenga}}
+
+Déclaration: {{Karl Shapiro, né Carl Shapiro le 10 novembre 1913 à Baltimore dans Maryland et mort le 14 mai 2000, est poète américain.}}
+has-occupation décrit le mieux la relation entre {{Karl Shapiro}} et {{poète}}
+
+Déclaration: {{Vasavere est un village de 102 habitants de la Commune de Illuka du Comté de Viru-Est en Estonie.}}
+is-where décrit le mieux la relation entre {{Vasavere}} et {{Estonie}}
+
+
+
+Given,
+По-русски {{a un type}} означает {{имеет тип}}
+По-русски {{aucune relation}} означает {{нет отношения}}
+По-русски {{a une éducation}} означает {{имеет образование}}
+По-русски {{lieu de naissance}} означает {{место рождения}}
+По-русски {{a une population}} означает {{имеет население}}
+По-русски {{a un genre}} означает {{имеет жанр}}
+По-русски {{est situé(e) à}} означает {{находится в}}
+По-русски {{a une occupation}} означает {{имеет профессию}}
+По-русски {{année de l'événement}} означает {{год события}}
+
+Утверждение: {{Амадо Нерво (, настоящее имя Хуан Крисо́стомо Руис де Нерво-и-Ордас (); 27 августа 1870, Тепик, штат Наярит, Мексика, — 24 мая 1919, Монтевидео, Уругвай) — мексиканский поэт, журналист, просветитель, принадлежал к направлению модернизма.}}
+
+
+Какое отношение лучше всего описывает отношение между {{Амадо Нерво}} и {{поэт}} из списка отношений, указанных выше?
+    

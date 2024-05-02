@@ -1,0 +1,11 @@
+actual	generated
+has-type	is-where
+from-country	birth-place
+is-where	from-country
+birth-place	birth-place
+is-where	is-where
+is-where	from-country
+org-has-member	birth-place
+birth-place	birth-place
+from-country	no_relation
+has-type	from-country

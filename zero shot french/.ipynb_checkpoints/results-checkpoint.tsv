@@ -1,0 +1,201 @@
+actual	generated
+birth-place	lieu de naissance
+has-type	a le type
+movie-has-director	le film a un réalisateur
+has-occupation	a une profession
+movie-has-director	le film a un réalisateur
+birth-place	lieu de naissance
+has-genre	a un genre
+birth-place	lieu de naissance
+birth-place	du pays
+birth-place	lieu de naissance
+has-genre	a un genre
+birth-place	lieu de naissance
+movie-has-director	le film a un réalisateur
+has-occupation	a une profession
+has-type	a le type
+birth-place	lieu de naissance
+has-author	a un auteur
+has-occupation	a une profession
+has-occupation	a une profession
+from-country	du pays
+birth-place	lieu de naissance
+has-type	a le type
+birth-place	lieu de naissance
+is-where	situé à
+is-where	du pays
+movie-has-director	le film a un réalisateur
+is-where	situé à
+birth-place	lieu de naissance
+movie-has-director	le film a un réalisateur
+has-author	a un auteur
+has-genre	a un genre
+org-has-member	lorganisation a un fondateur
+has-author	a un auteur
+has-occupation	a une profession
+event-year	année de lévénement
+headquarters	siège social
+has-type	a un genre
+is-where	du pays
+birth-place	lieu de naissance
+movie-has-director	le film a un réalisateur
+has-parent	a un parent
+has-occupation	lorganisation a un fondateur
+movie-has-director	le film a un réalisateur
+is-where	situé à
+is-where	situé à
+is-where	du pays
+birth-place	lieu de naissance
+has-genre	a un genre
+is-where	situé à
+is-where	du pays
+movie-has-director	le film a un réalisateur
+birth-place	lieu de naissance
+movie-has-director	le film a un réalisateur
+movie-has-director	le film a un réalisateur
+is-where	du pays
+has-occupation	a une profession
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+birth-place	du pays
+has-author	le film a un réalisateur
+movie-has-director	le film a un réalisateur
+from-country	aucune relation
+birth-place	du pays
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+has-type	a un genre
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+movie-has-director	le film a un réalisateur
+is-member-of	est membre de
+birth-place	lieu de naissance
+movie-has-director	le film a un réalisateur
+has-type	aucune relation
+birth-place	lieu de naissance
+has-genre	a un genre
+has-occupation	a une profession
+has-genre	a un genre
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+is-where	situé à
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+has-occupation	a une profession
+has-occupation	a une profession
+has-genre	genre
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+has-genre	aucune relation
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+birth-place	du pays
+movie-has-director	le film a un réalisateur
+has-type	a un genre
+has-occupation	a une profession
+is-where	du pays
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+has-author	a un auteur
+birth-place	lieu de naissance
+is-where	du pays
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+has-occupation	a une profession
+is-where	du pays
+has-occupation	a une profession
+org-has-member	lorganisation a un fondateur
+birth-place	lieu de naissance
+has-type	a un genre
+is-where	du pays
+movie-has-director	le film a un réalisateur
+from-country	du pays
+has-author	a un auteur
+birth-place	lieu de naissance
+has-type	a un genre
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+has-type	a un genre
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+has-genre	a un genre
+is-where	du pays
+is-where	situé à
+has-spouse	a un parent
+is-where	situé à
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+has-genre	a un parent
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+has-occupation	a une profession
+from-country	du pays
+is-member-of	est membre de
+birth-place	lieu de naissance
+has-occupation	a une profession
+birth-place	lieu de naissance
+has-occupation	a une profession
+is-where	situé à
+has-type	a un genre
+movie-has-director	le film a un réalisateur
+birth-place	lieu de naissance
+has-occupation	a une profession
+is-where	situé à
+has-occupation	a une profession
+movie-has-director	le film a un réalisateur
+has-genre	a un genre
+org-has-founder	lorganisation a un fondateur
+is-where	du pays
+birth-place	lieu de naissance
+has-author	a un auteur
+has-occupation	a une profession
+has-type	a un genre
+birth-place	lieu de naissance
+movie-has-director	le film a un réalisateur
+movie-has-director	le film a un réalisateur
+has-edu	est membre de
+has-occupation	a une profession
+has-type	a un genre
+has-occupation	a une profession
+has-occupation	a une profession
+has-occupation	a une profession
+org-leader	chef dorganisation
+no_relation	aucune relation
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+has-type	a un genre
+is-where	situé à
+org-has-founder	lorganisation a un fondateur
+is-where	du pays
+birth-place	lieu de naissance
+has-type	a un genre
+birth-place	lieu de naissance
+birth-place	lieu de naissance
+has-type	a une profession
+from-country	du pays
+is-where	situé à
+birth-place	lieu de naissance
+from-country	du pays
+is-where	du pays
+org-has-member	a un auteur
+birth-place	lieu de naissance
+is-where	du pays
+birth-place	lieu de naissance
+no_relation	a un parent
+is-member-of	est membre de
+movie-has-director	le film a un réalisateur
+movie-has-director	le film a un réalisateur
+movie-has-director	le film a un réalisateur
+has-occupation	chef dorganisation
+from-country	lieu de naissance
+birth-place	lieu de naissance
+is-where	aucune relation
+birth-place	lieu de naissance
+has-type	a un genre
+birth-place	lieu de naissance
+is-where	du pays

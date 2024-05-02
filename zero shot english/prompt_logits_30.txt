@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Pa Ngae (Thai: ป่าแงะ) is a village and tambon (subdistrict) of Pa Daet District, in Chiang Rai Province, Thailand. In 2005 it had a total population of 8129 people.}}.
+What is the most appropriate relation between {{Pa Ngae}} and {{8129}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

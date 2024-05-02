@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Adolf Szyszko-Bohusz (born 1 September 1883, Narva – died 1 October 1948, Kraków) was a Polish architect and conservator of monuments, a leading representative of historicism and modernism in Poland.}}.
+What is the most appropriate relation between {{Adolf Szyszko-Bohusz}} and {{Narva}} from the following options?
+
+{{located in}}
+{{has population}}
+{{has parent}}
+{{from country}}
+{{movie has director}}
+{{won award}}
+{{has genre}}
+{{organization leader}}
+{{is member of}}
+{{first product}}
+{{no relation}}
+{{has occupation}}
+{{has education}}
+{{starring}}
+{{birth place}}
+{{has child}}
+{{has type}}
+{{organization has founder}}
+{{headquarters}}
+{{has sibling}}
+{{event year}}
+{{has author}}
+{{has spouse}}
+{{organization has member}}
+
+Please choose the most suitable option from the given choices.
+    

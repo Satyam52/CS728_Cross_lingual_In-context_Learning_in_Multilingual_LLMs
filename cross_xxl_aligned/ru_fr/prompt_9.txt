@@ -1,0 +1,65 @@
+Рассмотрим область, где могут существовать только следующие отношения между любыми двумя сущностями: 
+
+{{имеет тип}}
+{{место рождения}}
+{{имеет образование}}
+{{нет отношения}}
+{{организация имеет основателя}}
+{{имеет жанр}}
+{{находится в}}
+{{имеет автора}}
+{{из страны}}
+{{имеет родителя}}
+{{имеет профессию}}
+{{организация имеет члена}}
+{{является членом}}
+{{штаб-квартира}}
+{{фильм имеет режиссера}}
+{{лидер организации}}
+{{имеет супруга(у)}}
+{{год события}}
+
+Учитывая следующие примеры,
+
+Утверждение: {{Ричард Раш (; род. 15 апреля 1929) — американский кинорежиссёр, сценарист, кинопродюсер.}}
+has-occupation лучше всего описывает отношение между {{Ричард Раш}} и {{сценарист}}
+
+Утверждение: {{Жан-Мари-Родриг Вильнёв (; 2 ноября 1883, Монреаль, Канада — 17 января 1947, Алхамбра, США) — канадский кардинал, облат.}}
+has-type лучше всего описывает отношение между {{Жан-Мари-Родриг Вильнё}} и {{кардинал}}
+
+Утверждение: {{Валид Солиман ( Walid Soliman) — переводчик и писатель, родился 11 апреля 1975 года в Тунисе (Тунис).}}
+has-occupation лучше всего описывает отношение между {{Валид Солиман}} и {{переводчик}}
+
+Утверждение: {{Генрих Август Винклер (; род. , ) — немецкий историк.}}
+has-occupation лучше всего описывает отношение между {{Генрих Август Винклер}} и {{историк}}
+
+Утверждение: {{Сатьяврат Шастри или Сатья Врат Шастри (род. ) — индийский санскритолог и поэт.}}
+has-genre лучше всего описывает отношение между {{Сатья Врат Шастри}} и {{санскрит}}
+
+
+
+Given,
+En français, {{имеет тип}} signifie {{a un type}}
+En français, {{место рождения}} signifie {{lieu de naissance}}
+En français, {{имеет образование}} signifie {{a une éducation}}
+En français, {{нет отношения}} signifie {{aucune relation}}
+En français, {{организация имеет основателя}} signifie {{organisation fondée par}}
+En français, {{имеет жанр}} signifie {{a un genre}}
+En français, {{находится в}} signifie {{est situé(e) à}}
+En français, {{имеет автора}} signifie {{a pour auteur}}
+En français, {{из страны}} signifie {{du pays}}
+En français, {{имеет родителя}} signifie {{a un parent}}
+En français, {{имеет профессию}} signifie {{a une occupation}}
+En français, {{организация имеет члена}} signifie {{organisation a pour membre}}
+En français, {{является членом}} signifie {{est membre de}}
+En français, {{штаб-квартира}} signifie {{siège social}}
+En français, {{фильм имеет режиссера}} signifie {{film réalisé par}}
+En français, {{лидер организации}} signifie {{leader de l'organisation}}
+En français, {{имеет супруга(у)}} signifie {{a un conjoint}}
+En français, {{год события}} signifie {{année de l'événement}}
+
+Déclaration: {{Luis Somoza Debayle (né le 18 novembre 1922 à León et mort le 13 avril 1967 à Managua), est un homme d'État nicaraguayen. Il fut président du Nicaragua, du 29 septembre 1956 au 1er mai 1963.}}
+
+
+Quelle relation décrit le mieux la relation entre {{Luis Somoza Debayle}} et {{Nicaragua}} à partir de la liste des relations données ci-dessus?
+    

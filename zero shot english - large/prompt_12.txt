@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Emly Starr (born 5 September 1957 in Laarne, Belgium; birth name Marie-Christine Mareels) is a Belgian disco singer.}}.
+What is the most appropriate relation between {{Emly Starr}} and {{Belgium}} from the following options?
+
+{{located in}}
+{{has population}}
+{{has parent}}
+{{from country}}
+{{movie has director}}
+{{won award}}
+{{has genre}}
+{{organization leader}}
+{{is member of}}
+{{first product}}
+{{no relation}}
+{{has occupation}}
+{{has education}}
+{{starring}}
+{{birth place}}
+{{has child}}
+{{has type}}
+{{organization has founder}}
+{{headquarters}}
+{{has sibling}}
+{{event year}}
+{{has author}}
+{{has spouse}}
+{{organization has member}}
+
+Please choose the most suitable option from the given choices.
+    

@@ -1,0 +1,11 @@
+actual	generated
+has-type	movie-has-director
+from-country	movie-has-director
+is-where	movie-has-director
+birth-place	movie-has-director
+is-where	movie-has-director
+is-where	won-award
+org-has-member	movie-has-director
+birth-place	movie-has-director
+from-country	movie-has-director
+has-type	movie-has-director

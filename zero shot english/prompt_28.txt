@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Pebaluna is a folk band based in Long Beach, California. The group was founded in 2006 after the lead vocalist Lauren Coleman and Matt Embree met and began recording music.}}.
+What is the most appropriate relation between {{Pebaluna}} and {{Matt Embree}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Louise Marie Anne de Bourbon, Légitimée de France, Mademoiselle de Tours (Saint-Germaine-en-Laye, 18 November 1674 – Bourbon, 15 September 1681) was the illegitimate daughter of Louis XIV of France and his most famous Maîtresse-en-titre, Madame de Montespan.}}.
+What is the most appropriate relation between {{Louise Marie Anne de Bourbon}} and {{Louis XIV of France}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

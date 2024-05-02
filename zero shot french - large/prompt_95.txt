@@ -1,0 +1,25 @@
+
+Considérez l'énoncé suivant comme vérité : {{Albums de Miyavi Miyaviuta ~Dokusou~(2006) What's My Name? (album)(2010) Singles modifier This Iz the Japanese Kabuki Rock est le 6e album de Miyavi, sorti sous le label PS Company et Universal Records le 19 mars 2008 au Japon.}}.
+Quelle est la relation la plus appropriée entre {{This Iz the Japanese Kabuki Rock}} et {{Album}} parmi les options suivantes ?
+
+{{a un parent}}
+{{a un conjoint}}
+{{a un auteur}}
+{{l'organisation a un membre}}
+{{année de l'événement}}
+{{est membre de}}
+{{le film a un réalisateur}}
+{{lieu de naissance}}
+{{du pays}}
+{{a une éducation}}
+{{chef d'organisation}}
+{{aucune relation}}
+{{a le type}}
+{{situé à}}
+{{l'organisation a un fondateur}}
+{{siège social}}
+{{a un genre}}
+{{a une profession}}
+
+Veuillez choisir l'option la plus appropriée parmi les choix donnés
+    

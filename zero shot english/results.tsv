@@ -1,0 +1,201 @@
+actual	generated
+has-type	has type
+from-country	from country
+is-where	from country
+birth-place	birth place
+is-where	located in
+is-where	from country
+org-has-member	leader
+birth-place	birth place
+from-country	from country
+has-type	has genre
+has-author	has author
+birth-place	from country
+birth-place	from country
+is-where	country
+is-where	located in
+has-author	has author
+movie-has-director	director
+headquarters	located in
+headquarters	from country
+has-author	author
+headquarters	country
+is-where	located in
+has-occupation	has occupation
+has-genre	genre
+has-author	author
+has-type	public
+has-population	has population
+org-has-member	organization has founder
+movie-has-director	movie has director
+has-population	has population
+has-genre	genre
+movie-has-director	movie has director
+has-occupation	occupation
+has-author	has author
+has-type	has type
+is-where	from country
+birth-place	birth place
+from-country	country
+from-country	from country
+org-has-member	organization has founder
+is-member-of	is member of
+birth-place	from country
+has-edu	has education
+has-edu	has education
+is-where	located in
+headquarters	from country
+org-has-member	is member of
+is-where	from country
+has-author	author
+from-country	from country
+has-type	group
+has-author	has author
+is-where	country
+has-child	author
+has-occupation	occupation
+birth-place	birth place
+birth-place	birth place
+is-member-of	has parent
+birth-place	birth place
+is-where	country
+has-genre	genre
+is-member-of	is member of
+has-edu	has education
+has-author	author
+headquarters	country
+birth-place	birth place
+is-member-of	is member of
+is-where	from country
+from-country	from country
+has-occupation	has occupation
+org-has-member	director
+is-where	located in
+has-population	has population
+headquarters	headquarters
+won-award	won award
+from-country	from country
+has-author	has author
+has-type	instance of
+has-genre	genre
+from-country	from country
+has-edu	has education
+has-population	has population
+has-type	has type
+org-has-member	guitarist
+no_relation	has parent
+birth-place	birth place
+has-sibling	has sibling
+movie-has-director	director
+has-sibling	has sibling
+birth-place	birth place
+has-type	has type
+has-spouse	has spouse
+has-edu	has education
+has-type	type
+has-occupation	occupation
+org-has-member	organization has member
+has-author	author
+from-country	from country
+event-year	event year
+has-occupation	occupation
+has-occupation	occupation
+org-has-member	organization has founder
+birth-place	birth place
+has-author	author
+from-country	from country
+has-type	genre
+has-type	first product
+is-where	located in
+headquarters	located in
+org-has-founder	organization has founder
+org-has-member	is member of
+has-occupation	is member of
+is-where	located in
+org-has-member	is member of
+has-type	no relation
+has-author	author
+org-has-member	individual
+has-occupation	has occupation
+has-parent	has parent
+has-occupation	occupation
+has-author	has author
+from-country	from country
+birth-place	birth place
+headquarters	located in
+has-type	located in
+has-author	author
+is-where	country
+has-occupation	has occupation
+has-edu	has education
+has-author	author
+has-genre	genre
+has-occupation	occupation
+has-author	has author
+org-has-member	organization has member
+has-genre	genre
+has-population	has population
+has-author	author
+has-occupation	occupation
+from-country	from country
+has-type	genre
+birth-place	birth place
+movie-has-director	director
+has-edu	has education
+birth-place	birth place
+has-genre	genre
+is-where	from country
+has-spouse	has spouse
+is-where	no relation
+has-population	has population
+has-occupation	has occupation
+org-has-member	is member of
+headquarters	from country
+has-type	has genre
+birth-place	from country
+org-leader	organization leader
+has-genre	genre
+has-population	has population
+has-population	has population
+org-has-founder	organization has founder
+has-population	has population
+from-country	from country
+has-author	author
+has-child	has parent
+org-has-member	is member of
+has-occupation	occupation
+org-has-founder	organization has founder
+headquarters	headquarters
+won-award	starring
+org-has-founder	organization has founder
+birth-place	birth place
+headquarters	located in
+has-population	has population
+is-where	from country
+first-product	first product
+from-country	from country
+has-sibling	has sibling
+birth-place	birth place
+has-type	has genre
+birth-place	birth place
+has-genre	genre
+has-type	genre
+has-author	has author
+has-type	located in
+birth-place	birth place
+has-type	album
+headquarters	located in
+is-where	located in
+is-where	located in
+has-population	has population
+has-type	has genre
+from-country	from country
+org-leader	author
+has-author	has author
+is-where	from country
+movie-has-director	movie has director
+birth-place	birth place
+starring	starring
+org-has-founder	organization has founder
+won-award	won award
+movie-has-director	movie has director

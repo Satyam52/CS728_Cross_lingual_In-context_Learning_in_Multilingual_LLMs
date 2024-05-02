@@ -1,0 +1,4 @@
+
+Consider the following statement as truth: WFAB (890 AM) is a radio station broadcasting a Christian radio format. It is licensed to Ceiba, Puerto Rico, United States, and it serves the Puerto Rico area.
+event year best describes the relation between WFAB and Puerto Rico based on above provided sentence.
+    

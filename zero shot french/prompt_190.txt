@@ -1,0 +1,25 @@
+
+Considérez l'énoncé suivant comme vérité : {{Louis de FunèsMichel GalabruClaude GensacFrank DavidHervé BellonBernard Menez Pour plus de détails, voir Fiche technique et Distribution L'Avare est un film comique français réalisé par Jean Girault et Louis de Funès, sorti en 1980.}}.
+Quelle est la relation la plus appropriée entre {{L'Avare}} et {{Jean Girault}} parmi les options suivantes ?
+
+{{a un parent}}
+{{a un conjoint}}
+{{a un auteur}}
+{{l'organisation a un membre}}
+{{année de l'événement}}
+{{est membre de}}
+{{le film a un réalisateur}}
+{{lieu de naissance}}
+{{du pays}}
+{{a une éducation}}
+{{chef d'organisation}}
+{{aucune relation}}
+{{a le type}}
+{{situé à}}
+{{l'organisation a un fondateur}}
+{{siège social}}
+{{a un genre}}
+{{a une profession}}
+
+Veuillez choisir l'option la plus appropriée parmi les choix donnés
+    

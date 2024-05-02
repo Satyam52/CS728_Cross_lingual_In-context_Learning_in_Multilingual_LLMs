@@ -1,0 +1,77 @@
+Considérez un domaine où seules les relations suivantes peuvent exister entre deux entités : 
+
+{{premier produit}}
+{{est membre de}}
+{{film réalisé par}}
+{{mettant en vedette}}
+{{a remporté un prix}}
+{{a une éducation}}
+{{organisation fondée par}}
+{{a pour enfant}}
+{{a un frère ou une sœur}}
+{{a une population}}
+{{est situé(e) à}}
+{{lieu de naissance}}
+{{aucune relation}}
+{{a un genre}}
+{{du pays}}
+{{a une occupation}}
+{{organisation a pour membre}}
+{{leader de l'organisation}}
+{{année de l'événement}}
+{{a un type}}
+{{a pour auteur}}
+{{a un parent}}
+{{siège social}}
+{{a un conjoint}}
+
+Étant donné les exemples suivants,
+
+Déclaration: {{Si vous avez un doute, l’atelier de lecture du projet Communes de France est à votre disposition pour vous aider. Canet-de-Salars est une commune française, située dans le département de l'Aveyron en région Occitanie.}}
+is-where décrit le mieux la relation entre {{Canet-de-Salars}} et {{France}}
+
+Déclaration: {{Britt Lomond est un acteur américain d'origine écossaise, né Glase Britt Lohman le 12 avril 1925 à Chicago dans l'Illinois et mort le 22 mars 2006 à Huntington Beach en Californie.}}
+has-occupation décrit le mieux la relation entre {{Britt Lomond}} et {{acteur}}
+
+Déclaration: {{Ostrov (en allemand : Wostrow) est une commune du district de Havlíčkův Brod, dans la région de Vysočina, en République tchèque.}}
+is-where décrit le mieux la relation entre {{Ostrov}} et {{République tchèque}}
+
+Déclaration: {{modifier Gaston Orellana est un artiste espagnol né à Valparaíso, au Chili, en 1933.}}
+birth-place décrit le mieux la relation entre {{Gaston Orellana}} et {{Valparaíso}}
+
+Déclaration: {{Paul Béchard est un résistant et homme politique français, né le 25 décembre 1899 à Alès (France) et mort le 26 avril 1982 à Montpellier (France).}}
+birth-place décrit le mieux la relation entre {{Paul Béchard}} et {{Alès}}
+
+
+
+Given,
+In English premier produit means first product
+In English est membre de means is member of
+In English film réalisé par means movie has director
+In English mettant en vedette means starring
+In English a remporté un prix means won award
+In English a une éducation means has education
+In English organisation fondée par means organization has founder
+In English a pour enfant means has child
+In English a un frère ou une sœur means has sibling
+In English a une population means has population
+In English est situé(e) à means located in
+In English lieu de naissance means birth place
+In English aucune relation means no relation
+In English a un genre means has genre
+In English du pays means from country
+In English a une occupation means has occupation
+In English organisation a pour membre means organization has member
+In English leader de l'organisation means organization leader
+In English année de l'événement means event year
+In English a un type means has type
+In English a pour auteur means has author
+In English a un parent means has parent
+In English siège social means headquarters
+In English a un conjoint means has spouse
+
+Statement: {{John W. McDonald was born in Vaughan, Ontario.}}
+
+
+What relation best describes the relation between {{John W. McDonald}} and {{Vaughan}} from the list of relations given above?
+    

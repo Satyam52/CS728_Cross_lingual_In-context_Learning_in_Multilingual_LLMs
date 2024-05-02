@@ -1,0 +1,25 @@
+
+Considérez l'énoncé suivant comme vérité : {{Michael Davies, né le 13 mars 1936 à Yeovil dans le Somerset et mort le 25 septembre 2004, est un enseignant et catholique traditionaliste britannique, auteur de nombreux livres sur l'Église catholique après Vatican II.}}.
+Quelle est la relation la plus appropriée entre {{Michael Davies}} et {{Somerset}} parmi les options suivantes ?
+
+{{a un parent}}
+{{a un conjoint}}
+{{a un auteur}}
+{{l'organisation a un membre}}
+{{année de l'événement}}
+{{est membre de}}
+{{le film a un réalisateur}}
+{{lieu de naissance}}
+{{du pays}}
+{{a une éducation}}
+{{chef d'organisation}}
+{{aucune relation}}
+{{a le type}}
+{{situé à}}
+{{l'organisation a un fondateur}}
+{{siège social}}
+{{a un genre}}
+{{a une profession}}
+
+Veuillez choisir l'option la plus appropriée parmi les choix donnés
+    

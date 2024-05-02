@@ -1,0 +1,132 @@
+actual	generated
+a une occupation	hasauthor
+a une occupation	hasauthor
+a une occupation	a pour auteur
+a une population	haspopulation
+a une occupation	a pour auteur
+a une population	haspopulation
+a une occupation	hasperson
+a une occupation	hasauthors
+a un type	hasrelation
+a une éducation	Iton
+a une population	haspopulation
+a une population	iswhere
+a une occupation	a une éducation
+a un type	haswriter
+a une occupation	a pour auteur
+a une occupation	hasauthor
+a une occupation	a pour auteur
+aucune relation	hasauthor
+a une population	haspopulation
+a un type	a une relation
+a une population	a un type
+a un type	relations
+a une occupation	a une occupation
+a une occupation	sur le plan de léducation
+a un type	a une relation
+a une population	haspopulation
+a un type	iswhere
+a une occupation	hasauthor
+a une occupation	a une occupation
+a une occupation	A un genre
+a une occupation	iswhere
+a un type	haspopulation
+a une occupation	relations
+aucune relation	a une éducation
+a une occupation	a une éducation
+a une occupation	Personnalité
+a une occupation	a pour auteur
+a une occupation	a une éducation
+a une occupation	a une éducation
+a une occupation	hasauthor
+a une occupation	relations
+a une population	haspopulation
+a un genre	a une éducation
+a une occupation	a une occupation
+a une occupation	atype
+a une population	haspopulation
+a une population	haspopulation
+a une occupation	hasauthor
+a une occupation	a une éducation
+a une occupation	a une relation
+a une occupation	Personnalité
+a une occupation	a une relation
+a une population	haspopulation
+a une population	hasrelation
+a un genre	hasrelation
+a une occupation	a une occupation
+a une occupation	a une occupation
+a une occupation	a une occupation
+a une occupation	a une occupation
+a une occupation	hasauthor
+a un type	a une relation
+a une population	haspopulation
+a une occupation	a une occupation
+a une occupation	relation
+a une population	haspopulation
+a un genre	a une éducation
+a un type	décrit le mieux la relation entre
+a un type	a éducation
+a une population	haspopulation
+année de l'événement	a une éducation
+a une occupation	hasauthor
+a une occupation	a pour auteur
+a une occupation	a une relation
+a un type	a une relation
+a une occupation	a a une éducation
+a une population	haspopulation
+a une occupation	a une relation
+a une occupation	a une éducation
+a une occupation	occupation
+a une occupation	relation
+a un type	hasrelation
+a une occupation	Yes
+a une occupation	a une relation
+a une population	haspopulation
+a un genre	notable
+a une occupation	a un type
+a une population	haspopulation
+a une occupation	a pour auteur
+a une occupation	hasdate
+a une occupation	a une relation
+a un type	a une relation
+a une population	haspopulation
+a une occupation	a une occupation
+a un type	a une relation
+a une occupation	hasauthor
+a un type	Deux entités peuvent exister dans un domaine
+a un type	a pour auteur
+a une population	haspopulation
+année de l'événement	date de naissance
+a une occupation	a une relation
+aucune relation	return
+a un genre	a un genre
+a une occupation	a pour auteur
+a un type	hasrelation
+a une occupation	a pour auteur
+a une occupation	A une relation
+a un type	hasauthor
+a une population	haspopulation
+a un type	hasauthor
+a une occupation	a une relation
+a un genre	genre
+a un type	a une éducation
+a un type	hasrelation
+année de l'événement	date de lévénement
+a une population	haspopulation
+a une occupation	a pour auteur
+a une occupation	hasauthor
+a une occupation	a pour auteur
+a une occupation	occupation
+a une occupation	iswhere
+a un genre	a un genre
+a une occupation	occupation
+a un genre	a une activité
+a une population	haspopulation
+a une occupation	occupation
+a un type	a un type
+a une occupation	a une relation
+a une population	a une population
+a une occupation	a pour auteur
+a une population	haspopulation
+a une occupation	a pour auteur

@@ -1,0 +1,201 @@
+actual	generated
+a un type	Yes
+du pays	Country
+est situé(e) à	a first product
+lieu de naissance	relationship
+est situé(e) à	relationship
+est situé(e) à	Yes
+organisation a pour membre	pianist
+lieu de naissance	Yes
+du pays	country
+a un type	hasoccupation
+a pour auteur	hasoccupation
+lieu de naissance	a city
+lieu de naissance	birthplace
+est situé(e) à	a occupation
+est situé(e) à	occupation
+a pour auteur	iswhere
+film réalisé par	relationship
+siège social	relative
+siège social	relationship
+a pour auteur	No
+siège social	iswhere
+est situé(e) à	iswhere
+a une occupation	hasoccupation
+a un genre	relationship
+a pour auteur	relationship
+a un type	No
+a une population	a population
+organisation a pour membre	occupation
+film réalisé par	birthplace
+a une population	iswhere
+a un genre	No
+film réalisé par	hasoccupation
+a une occupation	hasoccupation
+a pour auteur	instance of
+a un type	No
+est situé(e) à	No
+lieu de naissance	relation
+du pays	a first product
+du pays	No
+organisation a pour membre	hasoccupation
+est membre de	Relationship
+lieu de naissance	hasoccupation
+a une éducation	No
+a une éducation	a masters degree
+est situé(e) à	iswhere
+siège social	languages spoken in Estonia
+organisation a pour membre	occupation
+est situé(e) à	No
+a pour auteur	iswhere
+du pays	relationship
+a un type	hasoccupation
+a pour auteur	relationship
+est situé(e) à	No
+a pour enfant	relationship
+a une occupation	hasoccupation
+lieu de naissance	place of birth
+lieu de naissance	Yes
+est membre de	youth product
+lieu de naissance	iswhere
+est situé(e) à	relations
+a un genre	hasoccupation
+est membre de	hasoccupation
+a une éducation	relationship
+a pour auteur	hasoccupation
+siège social	No
+lieu de naissance	political party
+est membre de	No
+est situé(e) à	No
+du pays	No
+a une occupation	hasoccupation
+organisation a pour membre	hasoccupation
+est situé(e) à	Yes
+a une population	list of relations
+siège social	Location
+a remporté un prix	Relationship
+du pays	Yes
+a pour auteur	hasoccupation
+a un type	The relation is defined as a shared domain
+a un genre	No
+du pays	hasoccupation
+a une éducation	hasoccupation
+a une population	Yes
+a un type	instance of
+organisation a pour membre	brothers
+aucune relation	not in context
+lieu de naissance	iswhere
+a un frère ou une sœur	Sister
+film réalisé par	hasoccupation
+a un frère ou une sœur	relationship
+lieu de naissance	No
+a un type	hasoccupation
+a un conjoint	hasoccupation
+a une éducation	hasoccupation
+a un type	hasoccupation
+a une occupation	iswhere
+organisation a pour membre	relations
+a pour auteur	hasoccupation
+du pays	No
+année de l'événement	Yes
+a une occupation	occupation
+a une occupation	iswhere
+organisation a pour membre	relationship
+lieu de naissance	iswhere
+a pour auteur	relationship
+du pays	No
+a un type	birthplace
+a un type	No
+est situé(e) à	iswhere
+siège social	iswhere
+organisation fondée par	Relationship
+organisation a pour membre	relations
+a une occupation	relationship
+est situé(e) à	a birth place
+organisation a pour membre	hasoccupation
+a un type	Yes
+a pour auteur	birthplace
+organisation a pour membre	hasoccupation
+a une occupation	hasoccupation
+a un parent	a child
+a une occupation	Relationship
+a pour auteur	relations
+du pays	hasoccupation
+lieu de naissance	relations
+siège social	First product
+a un type	iswhere
+a pour auteur	hasoccupation
+est situé(e) à	No
+a une occupation	relationship
+a une éducation	No
+a pour auteur	hasoccupation
+a un genre	Yes
+a une occupation	occupation
+a pour auteur	occupation
+organisation a pour membre	hasoccupation
+a un genre	No
+a une population	inequality
+a pour auteur	authors
+a une occupation	hasoccupation
+du pays	No
+a un type	hasoccupation
+lieu de naissance	hasoccupation
+film réalisé par	hasoccupation
+a une éducation	affiliation
+lieu de naissance	iswhere
+a un genre	Relationship
+est situé(e) à	No
+a un conjoint	relationship
+est situé(e) à	Yes
+a une population	No
+a une occupation	hasoccupation
+organisation a pour membre	hasoccupation
+siège social	No
+a un type	hasoccupation
+lieu de naissance	iswhere
+leader de l'organisation	The Banga Sena is a separatist Hindu organization which advocates formation of a separate homeland for Bengali Hindus in Bangladesh The group is headquartered in Metz The group has a member of the organization which is headquartered in Metz
+a un genre	No
+a une population	No
+a une population	No
+organisation fondée par	significant
+a une population	No
+du pays	occupation
+a pour auteur	relationship
+a pour enfant	occupation
+organisation a pour membre	hasoccupation
+a une occupation	hasoccupation
+organisation fondée par	relationship
+siège social	No
+a remporté un prix	hasoccupation
+organisation fondée par	a parent
+lieu de naissance	No
+siège social	iswhere
+a une population	population
+est situé(e) à	iswhere
+premier produit	No
+du pays	occupation
+a un frère ou une sœur	iswhere
+lieu de naissance	lieu de naissance
+a un type	hasoccupation
+lieu de naissance	relations
+a un genre	No
+a un type	instance of
+a pour auteur	Relationship
+a un type	relationship
+lieu de naissance	birthplace
+a un type	No
+siège social	No
+est situé(e) à	relationship
+est situé(e) à	Yes
+a une population	population
+a un type	No
+du pays	No
+leader de l'organisation	Relationship
+a pour auteur	iswhere
+est situé(e) à	country
+film réalisé par	relationship
+lieu de naissance	relations
+mettant en vedette	hasoccupation
+organisation fondée par	relationship
+a remporté un prix	hasoccupation
+film réalisé par	relations

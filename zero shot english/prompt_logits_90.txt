@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Oleg Stepko (Ukrainian: Олег Степко, born 25 March 1994 in Zaporizhzhya) is a Ukrainian (until 2014), Azerbaijani (2014–2018) and Russian (since March 2018) gymnast.}}.
+What is the most appropriate relation between {{Oleg Stepko}} and {{Zaporizhzhya}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

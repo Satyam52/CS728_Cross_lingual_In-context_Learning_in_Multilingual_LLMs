@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Cameron Chism (born December 25, 1990) is a former American football defensive back. He played college football at the University of Maryland, College Park and attended Bishop McNamara High School in Forestville, Maryland.}}.
+What is the most appropriate relation between {{Cameron Chism}} and {{Bishop McNamara High School}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

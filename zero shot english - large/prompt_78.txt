@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Calperum Station, also known as Calperum Reserve, is a protected area located in the east of the Australian state of South Australia about 10 kilometres (6.2 miles) north west of the town of Renmark and about 250 kilometres (160 miles) east of the state capital of Adelaide.}}.
+What is the most appropriate relation between {{Calperum Station}} and {{protected}} from the following options?
+
+{{located in}}
+{{has population}}
+{{has parent}}
+{{from country}}
+{{movie has director}}
+{{won award}}
+{{has genre}}
+{{organization leader}}
+{{is member of}}
+{{first product}}
+{{no relation}}
+{{has occupation}}
+{{has education}}
+{{starring}}
+{{birth place}}
+{{has child}}
+{{has type}}
+{{organization has founder}}
+{{headquarters}}
+{{has sibling}}
+{{event year}}
+{{has author}}
+{{has spouse}}
+{{organization has member}}
+
+Please choose the most suitable option from the given choices.
+    

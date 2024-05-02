@@ -1,0 +1,51 @@
+Considérez un domaine où seules les relations suivantes peuvent exister entre deux entités : 
+
+{{lieu de naissance}}
+{{du pays}}
+{{siège social}}
+{{a pour enfant}}
+{{est situé(e) à}}
+{{a une population}}
+{{a une éducation}}
+{{est membre de}}
+{{mettant en vedette}}
+{{aucune relation}}
+{{a une occupation}}
+{{a pour auteur}}
+{{année de l'événement}}
+{{premier produit}}
+{{a remporté un prix}}
+{{a un genre}}
+{{a un frère ou une sœur}}
+{{a un type}}
+{{a un parent}}
+{{film réalisé par}}
+{{a un conjoint}}
+{{organisation fondée par}}
+{{leader de l'organisation}}
+{{organisation a pour membre}}
+
+Étant donné les exemples suivants,
+
+Déclaration: {{Hanaa Ben Abdesslem, née le 18 octobre 1990 à Nabeul, est un mannequin tunisien.}}
+{{lieu de naissance}} décrit le mieux la relation entre {{Hanaa Ben Abdesslem}} et {{Nabeul}}
+
+Déclaration: {{Moto Racer World Tour est un jeu vidéo de course de motocyclette développé par Delphine Software International et édité par Infogrames, sorti en 2000 sur PlayStation.}}
+{{a un genre}} décrit le mieux la relation entre {{Moto Racer World Tour}} et {{jeu vidéo de course}}
+
+Déclaration: {{Œuvres principales modifier Charles-Nérée Beauchemin (1850-1931) est un écrivain et médecin québécois. Charles-Nérée Beauchemin naît le 20 février 1850 à Yamachiche, au Québec.}}
+{{lieu de naissance}} décrit le mieux la relation entre {{Nérée Beauchemin}} et {{Yamachiche}}
+
+Déclaration: {{modifier Jonathan Silverman est un acteur américain, né le 5 août 1966 à Los Angeles, dans l’État de Californie (États-Unis).}}
+{{lieu de naissance}} décrit le mieux la relation entre {{Jonathan Silverman}} et {{Californie}}
+
+Déclaration: {{Un fil à la patte est une comédie en trois actes de Georges Feydeau représentée pour la première fois à Paris le 9 janvier 1894 au théâtre du Palais-Royal et appartenant au vaudeville.}}
+{{a pour auteur}} décrit le mieux la relation entre {{Un fil à la patte}} et {{Georges Feydeau}}
+
+
+
+Statement: {{Front page of the first issue of O Heraldo O Heraldo is a century-old broadsheet English-language daily newspaper published from Panjim, the state-capital of the Indian state of Goa.}}
+
+
+What relation best describes the relation between {{O Heraldo}} and {{Panjim}} from the list of relations given above?
+    

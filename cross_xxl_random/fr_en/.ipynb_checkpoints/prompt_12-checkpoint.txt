@@ -1,0 +1,51 @@
+Considérez un domaine où seules les relations suivantes peuvent exister entre deux entités : 
+
+{{lieu de naissance}}
+{{du pays}}
+{{siège social}}
+{{a pour enfant}}
+{{est situé(e) à}}
+{{a une population}}
+{{a une éducation}}
+{{est membre de}}
+{{mettant en vedette}}
+{{aucune relation}}
+{{a une occupation}}
+{{a pour auteur}}
+{{année de l'événement}}
+{{premier produit}}
+{{a remporté un prix}}
+{{a un genre}}
+{{a un frère ou une sœur}}
+{{a un type}}
+{{a un parent}}
+{{film réalisé par}}
+{{a un conjoint}}
+{{organisation fondée par}}
+{{leader de l'organisation}}
+{{organisation a pour membre}}
+
+Étant donné les exemples suivants,
+
+Déclaration: {{Marco Pinotti (né le 25 février 1976 à Osio Sotto, dans la province de Bergame, en Lombardie) est un coureur cycliste sur route italien.}}
+{{lieu de naissance}} décrit le mieux la relation entre {{Marco Pinotti}} et {{Osio Sotto}}
+
+Déclaration: {{Pour plus de détails, voir Fiche technique et Distribution Lightning Love est un film muet américain de comédie réalisé en 1923 par Larry Semon et James D. Davis dans lequel Oliver Hardy est un des interprètes.}}
+{{film réalisé par}} décrit le mieux la relation entre {{Lightning Love}} et {{Larry Semon}}
+
+Déclaration: {{Rex HarrisonJeanne MoreauShirley MacLaineAlain DelonGeorge C. ScottIngrid BergmanOmar Sharif Pour plus de détails, voir Fiche technique et Distribution La Rolls-Royce jaune (The Yellow Rolls-Royce) est un film britannique à sketches réalisé par Anthony Asquith et sorti en 1964.}}
+{{film réalisé par}} décrit le mieux la relation entre {{The Yellow Rolls-Royce}} et {{Anthony Asquith}}
+
+Déclaration: {{Jákfa est un village de Hongrie, situé dans le département de Vas. Lors du recensement de 2004, il y avait 209 habitants.}}
+{{a une population}} décrit le mieux la relation entre {{Jákfa}} et {{209}}
+
+Déclaration: {{Abbott Handerson Thayer (né le 12 août 1849 à Boston – mort le 29 mai 1921 à Dublin, dans le New Hampshire) est un peintre américain.}}
+{{lieu de naissance}} décrit le mieux la relation entre {{Abbott Handerson Thayer}} et {{Boston}}
+
+
+
+Statement: {{Emly Starr (born 5 September 1957 in Laarne, Belgium; birth name Marie-Christine Mareels) is a Belgian disco singer.}}
+
+
+What relation best describes the relation between {{Emly Starr}} and {{Belgium}} from the list of relations given above?
+    

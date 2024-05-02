@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{My Friend from Faro () is 2008 German drama film. It marks the directorial debut of Nana Neul and stars Anjorka Strechel and Lucie Hollmann.}}.
+What is the most appropriate relation between {{My Friend from Faro}} and {{Anjorka Strechel}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

@@ -1,0 +1,201 @@
+actual	generated
+lieu de naissance	Location
+a un type	instance of
+film réalisé par	No
+a une occupation	occupation
+film réalisé par	No
+lieu de naissance	Location
+a un genre	genre
+lieu de naissance	No
+lieu de naissance	No
+lieu de naissance	Location
+a un genre	No
+lieu de naissance	No
+film réalisé par	No
+a une occupation	No
+a un type	No
+lieu de naissance	Location
+a pour auteur	No
+a une occupation	Personnalité
+a une occupation	Personnalité
+du pays	No
+lieu de naissance	No
+a un type	Location
+lieu de naissance	No
+est situé(e) à	No
+est situé(e) à	No
+film réalisé par	No
+est situé(e) à	No
+lieu de naissance	No
+film réalisé par	No
+a pour auteur	No
+a un genre	No
+organisation a pour membre	Artist
+a pour auteur	Personnalité
+a une occupation	No
+année de l'événement	datetime
+siège social	No
+a un type	description
+est situé(e) à	No
+lieu de naissance	Location
+film réalisé par	No
+a un parent	relative
+a une occupation	No
+film réalisé par	Personnages
+est situé(e) à	No
+est situé(e) à	Relations between entities
+est situé(e) à	No
+lieu de naissance	No
+a un genre	Yes
+est situé(e) à	No
+est situé(e) à	No
+film réalisé par	Artist
+lieu de naissance	Where is José Bravo née
+film réalisé par	Personnalité
+film réalisé par	Personnalité
+est situé(e) à	Location
+a une occupation	Artist
+lieu de naissance	No
+lieu de naissance	No
+lieu de naissance	No
+lieu de naissance	religion
+a pour auteur	Artist
+film réalisé par	No
+du pays	Yes
+lieu de naissance	No
+lieu de naissance	No
+lieu de naissance	No
+lieu de naissance	No
+a un type	Album
+lieu de naissance	where is agnez mo located
+lieu de naissance	Location
+film réalisé par	Personnaliser un sujet
+est membre de	No
+lieu de naissance	Personnalité
+film réalisé par	No
+a un type	No
+lieu de naissance	No
+a un genre	Yes
+a une occupation	No
+a un genre	No
+lieu de naissance	No
+lieu de naissance	No
+est situé(e) à	No
+lieu de naissance	Location
+lieu de naissance	Where is Marcus Belgrave born
+a une occupation	Personnellement Drew Goddard est un scénariste et un réalisateur américain Il est connu pour son travail de scénariste
+a une occupation	Artist
+a un genre	No
+lieu de naissance	Location
+lieu de naissance	Location
+a un genre	No
+lieu de naissance	Location
+lieu de naissance	Location
+lieu de naissance	No
+film réalisé par	Personnalité
+a un type	Yes
+a une occupation	No
+est situé(e) à	Location
+lieu de naissance	No
+lieu de naissance	No
+a pour auteur	Personnaliser la relation entre les deux entities
+lieu de naissance	No
+est situé(e) à	No
+lieu de naissance	No
+lieu de naissance	No
+a une occupation	Artist
+est situé(e) à	No
+a une occupation	No
+organisation a pour membre	No
+lieu de naissance	No
+a un type	No
+est situé(e) à	Location
+film réalisé par	No
+du pays	No
+a pour auteur	Person
+lieu de naissance	No
+a un type	No
+lieu de naissance	No
+lieu de naissance	No
+a un type	No
+lieu de naissance	Location
+lieu de naissance	No
+a un genre	No
+est situé(e) à	No
+est situé(e) à	No
+a un conjoint	No
+est situé(e) à	No
+lieu de naissance	No
+lieu de naissance	No
+lieu de naissance	No
+a un genre	No
+lieu de naissance	No
+lieu de naissance	No
+lieu de naissance	Location
+lieu de naissance	Location
+a une occupation	Personnalité
+du pays	No
+est membre de	Personnalité
+lieu de naissance	Person
+a une occupation	where is Gert Verhulst
+lieu de naissance	No
+a une occupation	No
+est situé(e) à	No
+a un type	No
+film réalisé par	No
+lieu de naissance	Yes
+a une occupation	No
+est situé(e) à	No
+a une occupation	No
+film réalisé par	No
+a un genre	Yes
+organisation fondée par	No
+est situé(e) à	No
+lieu de naissance	No
+a pour auteur	instance of
+a une occupation	occupation
+a un type	Album
+lieu de naissance	Location
+film réalisé par	Personnalité
+film réalisé par	No
+a une éducation	Description
+a une occupation	No
+a un type	No
+a une occupation	No
+a une occupation	No
+a une occupation	Artist
+leader de l'organisation	Personnalité
+aucune relation	No
+lieu de naissance	No
+lieu de naissance	No
+a un type	instance of
+est situé(e) à	No
+organisation fondée par	No
+est situé(e) à	No
+lieu de naissance	No
+a un type	instance of
+lieu de naissance	No
+lieu de naissance	No
+a un type	No
+du pays	No
+est situé(e) à	No
+lieu de naissance	Location
+du pays	No
+est situé(e) à	Location
+organisation a pour membre	Persons
+lieu de naissance	No
+est situé(e) à	No
+lieu de naissance	No
+aucune relation	No
+est membre de	Associated
+film réalisé par	Personnalité
+film réalisé par	No
+film réalisé par	relationship
+a une occupation	Personnalité
+du pays	No
+lieu de naissance	No
+est situé(e) à	No
+lieu de naissance	Location
+a un type	Album
+lieu de naissance	Location
+est situé(e) à	No

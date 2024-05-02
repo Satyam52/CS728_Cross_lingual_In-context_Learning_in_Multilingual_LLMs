@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Umm al-Fahm (Arabic: أمّ الفحم‎, Umm al-Faḥm; Hebrew: אֻם אל-פַחְם Um el-Faḥem) is a city located 20 kilometres (12 miles) northwest of Jenin in the Haifa District of Israel.}}.
+What is the most appropriate relation between {{Umm al-Fahm}} and {{city}} from the following options?
+
+{{located in}}
+{{has population}}
+{{has parent}}
+{{from country}}
+{{movie has director}}
+{{won award}}
+{{has genre}}
+{{organization leader}}
+{{is member of}}
+{{first product}}
+{{no relation}}
+{{has occupation}}
+{{has education}}
+{{starring}}
+{{birth place}}
+{{has child}}
+{{has type}}
+{{organization has founder}}
+{{headquarters}}
+{{has sibling}}
+{{event year}}
+{{has author}}
+{{has spouse}}
+{{organization has member}}
+
+Please choose the most suitable option from the given choices.
+    

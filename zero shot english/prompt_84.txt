@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Calabrese is an American rock band that is based out of Phoenix, Arizona. The band consists of brothers Bobby Calabrese on guitar and vocals, Jimmy Calabrese on bass and vocals, and Davey Calabrese on Drums.}}.
+What is the most appropriate relation between {{Calabrese}} and {{Bobby Calabrese}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

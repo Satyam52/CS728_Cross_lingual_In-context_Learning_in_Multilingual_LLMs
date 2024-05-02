@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Sokoband, formerly known as Soko, is a jazz fusion duo, featuring pianist Michael Sokolowski and bassist Houston Ross.}}.
+What is the most appropriate relation between {{Sokoband}} and {{Michael Sokolowski}} from the following options?
+
+{{has spouse}}
+{{has occupation}}
+{{no relation}}
+{{has child}}
+{{has type}}
+{{event year}}
+{{organization has founder}}
+{{has sibling}}
+{{from country}}
+{{has author}}
+{{has education}}
+{{has genre}}
+{{has population}}
+{{won award}}
+{{first product}}
+{{headquarters}}
+{{birth place}}
+{{organization leader}}
+{{located in}}
+{{is member of}}
+{{starring}}
+{{has parent}}
+{{organization has member}}
+{{movie has director}}
+
+Is this the most suited relation chosen from the above given list for the given truth.
+{{movie has director}}
+    

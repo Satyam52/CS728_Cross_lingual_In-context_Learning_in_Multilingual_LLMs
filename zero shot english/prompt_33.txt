@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Jheri Redding (born Robert William Redding March 2, 1907 – March 15, 1998) was an American hairdresser, chemist, hair-care products entrepreneur and businessman.}}.
+What is the most appropriate relation between {{Jheri Redding}} and {{chemist}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

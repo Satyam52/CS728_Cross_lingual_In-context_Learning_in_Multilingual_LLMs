@@ -1,0 +1,25 @@
+
+Considérez l'énoncé suivant comme vérité : {{modifier Bahram Radan (en persan : بهرام رادان), né le 28 avril 1979 à Téhéran (Iran), est un acteur iranien, gagnant des prix pour certaines de ses interprétations et reconnu en Orient comme Brad Pitt (après le mannequin masculin de mode international Farzan Athari).}}.
+Quelle est la relation la plus appropriée entre {{Bahram Radan}} et {{Téhéran}} parmi les options suivantes ?
+
+{{a un parent}}
+{{a un conjoint}}
+{{a un auteur}}
+{{l'organisation a un membre}}
+{{année de l'événement}}
+{{est membre de}}
+{{le film a un réalisateur}}
+{{lieu de naissance}}
+{{du pays}}
+{{a une éducation}}
+{{chef d'organisation}}
+{{aucune relation}}
+{{a le type}}
+{{situé à}}
+{{l'organisation a un fondateur}}
+{{siège social}}
+{{a un genre}}
+{{a une profession}}
+
+Veuillez choisir l'option la plus appropriée parmi les choix donnés
+    

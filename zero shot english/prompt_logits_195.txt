@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Teknolust is a 2002 film written, produced, and directed by Lynn Hershman Leeson who, at the time of production, was working in the art department at University of California, Davis.}}.
+What is the most appropriate relation between {{Teknolust}} and {{Lynn Hershman Leeson}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

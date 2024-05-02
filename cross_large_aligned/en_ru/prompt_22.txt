@@ -1,0 +1,47 @@
+Consider a domain where only the following relations can exist between any two entities:
+
+{{has type}}
+{{no relation}}
+{{has education}}
+{{birth place}}
+{{has population}}
+{{has genre}}
+{{has parent}}
+{{has occupation}}
+{{event year}}
+
+Given the following examples,
+
+Statement: {{Silver Seraph is a Swedish neoclassical power metal project created by renowned singer Pete Sandberg (Midnight Sun, Opus Atlantica) in 2001.}}
+has-genre best describes the relation between {{Silver Seraph}} and {{power metal}}
+
+Statement: {{George Woodcock (21 April 1894 – 22 February 1968) played first-class cricket in one match for Somerset in 1921. He was born at Warrington, then in Lancashire, and died at Bruton, Somerset.}}
+birth-place best describes the relation between {{George Woodcock}} and {{Warrington}}
+
+Statement: {{Decisive Goguryeo victory, The Battle of Salsu was a major battle that occurred in the year 612 during the second campaign of the Goguryeo–Sui War between Goguryeo of Korea and Sui of China.}}
+event-year best describes the relation between {{Battle of Salsu}} and {{612}}
+
+Statement: {{Kangru is a small borough () in Kiili Parish, Harju County, Estonia, about south of Tallinn. It has a population of 431 (as of 2009).}}
+has-population best describes the relation between {{Kangru}} and {{431}}
+
+Statement: {{Peaches Geldof was born in London on 13 March 1989, the second daughter of Bob Geldof and Paula Yates and a granddaughter of Hughie Green.}}
+has-parent best describes the relation between {{Peaches Geldof}} and {{Bob Geldof}}
+
+
+
+Given,
+По-русски {{has type}} означает {{имеет тип}}
+По-русски {{no relation}} означает {{нет отношения}}
+По-русски {{has education}} означает {{имеет образование}}
+По-русски {{birth place}} означает {{место рождения}}
+По-русски {{has population}} означает {{имеет население}}
+По-русски {{has genre}} означает {{имеет жанр}}
+По-русски {{has parent}} означает {{имеет родителя}}
+По-русски {{has occupation}} означает {{имеет профессию}}
+По-русски {{event year}} означает {{год события}}
+
+Утверждение: {{Джузеппе Версальди (; род. 30 июля 1943, Вилларбойт, королевство Италия) — итальянский кардинал, ватиканский куриальный сановник.}}
+
+
+Какое отношение лучше всего описывает отношение между {{Джузеппе Версальди}} и {{кардинал}} из списка отношений, указанных выше?
+    

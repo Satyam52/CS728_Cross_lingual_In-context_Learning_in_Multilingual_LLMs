@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{FAT Taiwan Inc., (Chinese: 遠東航空) doing business as Far Eastern Air Transport (FAT), was an airline with its head office in Songshan District, Taipei, Taiwan (Republic of China).}}.
+What is the most appropriate relation between {{Far Eastern Air Transport}} and {{Taiwan}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

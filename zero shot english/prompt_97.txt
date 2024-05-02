@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Some Remarks: Essays and Other Writing is a collection of short fiction and nonfiction by the speculative fiction author Neal Stephenson.}}.
+What is the most appropriate relation between {{Some Remarks: Essays and Other Writing}} and {{Neal Stephenson}} from the following options?
+
+{{first product}}
+{{won award}}
+{{organization leader}}
+{{has parent}}
+{{no relation}}
+{{event year}}
+{{has education}}
+{{from country}}
+{{organization has member}}
+{{birth place}}
+{{is member of}}
+{{located in}}
+{{has occupation}}
+{{has child}}
+{{has spouse}}
+{{starring}}
+{{has type}}
+{{has genre}}
+{{organization has founder}}
+{{has population}}
+{{headquarters}}
+{{has author}}
+{{has sibling}}
+{{movie has director}}
+
+Please choose the most suitable option from the given choices.
+    

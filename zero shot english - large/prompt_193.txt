@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{Asia Overland by Mark Elliott and Wil Klass was an idiosyncratic book of the 1990s which developed a minor cult following amongst backpackers in Asia and the former Soviet Union.}}.
+What is the most appropriate relation between {{Asia Overland}} and {{Mark Elliott}} from the following options?
+
+{{located in}}
+{{has population}}
+{{has parent}}
+{{from country}}
+{{movie has director}}
+{{won award}}
+{{has genre}}
+{{organization leader}}
+{{is member of}}
+{{first product}}
+{{no relation}}
+{{has occupation}}
+{{has education}}
+{{starring}}
+{{birth place}}
+{{has child}}
+{{has type}}
+{{organization has founder}}
+{{headquarters}}
+{{has sibling}}
+{{event year}}
+{{has author}}
+{{has spouse}}
+{{organization has member}}
+
+Please choose the most suitable option from the given choices.
+    

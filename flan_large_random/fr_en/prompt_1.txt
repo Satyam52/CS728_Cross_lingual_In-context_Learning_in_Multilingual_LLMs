@@ -1,0 +1,51 @@
+Considérez un domaine où seules les relations suivantes peuvent exister entre deux entités : 
+
+{{lieu de naissance}}
+{{du pays}}
+{{siège social}}
+{{a pour enfant}}
+{{est situé(e) à}}
+{{a une population}}
+{{a une éducation}}
+{{est membre de}}
+{{mettant en vedette}}
+{{aucune relation}}
+{{a une occupation}}
+{{a pour auteur}}
+{{année de l'événement}}
+{{premier produit}}
+{{a remporté un prix}}
+{{a un genre}}
+{{a un frère ou une sœur}}
+{{a un type}}
+{{a un parent}}
+{{film réalisé par}}
+{{a un conjoint}}
+{{organisation fondée par}}
+{{leader de l'organisation}}
+{{organisation a pour membre}}
+
+Étant donné les exemples suivants,
+
+Déclaration: {{Boo.com est une ancienne entreprise britannique du secteur de l'Internet, spécialisée dans la vente de vêtements en ligne, fondée en 1998 par les suédois Ernst Malmsten, Kajsa Leander et Patrik Hedelin.}}
+{{leader de l'organisation}} décrit le mieux la relation entre {{Boo.com}} et {{Ernst Malmsten}}
+
+Déclaration: {{modifier Jozef Stümpel (né le 20 juillet 1972 à Nitra en Tchécoslovaquie aujourd'hui ville de Slovaquie) est un joueur professionnel de hockey sur glace.}}
+{{lieu de naissance}} décrit le mieux la relation entre {{Jozef Stümpel}} et {{Tchécoslovaquie}}
+
+Déclaration: {{William John Owen Rowbotham, plus connu sous le nom de Bill Owen, né le 14 mars 1914 à Acton en Londres et décédé le 12 juillet 1999 à Highgate (Londres), est un acteur et un auteur-compositeur britannique.}}
+{{lieu de naissance}} décrit le mieux la relation entre {{Bill Owen}} et {{Londres}}
+
+Déclaration: {{La Courneuve est une commune française, située dans le département de la Seine-Saint-Denis en région Île-de-France.}}
+{{est situé(e) à}} décrit le mieux la relation entre {{La Courneuve}} et {{France}}
+
+Déclaration: {{modifier Teresa Ann Savoy est une actrice britannique née le 18 juillet 1955 à Londres et morte le 9 janvier 2017 à Milan.}}
+{{lieu de naissance}} décrit le mieux la relation entre {{Teresa Ann Savoy}} et {{Londres}}
+
+
+
+Statement: {{North West Coastal Highway is a generally north-south Western Australian highway which links the coastal city of Geraldton with the town of Port Hedland.}}
+
+
+What relation best describes the relation between {{North West Coastal Highway}} and {{highway}} from the list of relations given above?
+    

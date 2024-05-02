@@ -1,0 +1,36 @@
+Considérez un domaine où seules les relations suivantes peuvent exister entre deux entités : 
+
+{{a une population}}
+{{lieu de naissance}}
+{{année de l'événement}}
+{{a une occupation}}
+{{organisation a pour membre}}
+{{a une éducation}}
+{{aucune relation}}
+{{a un type}}
+{{a un genre}}
+
+Étant donné les exemples suivants,
+
+Déclaration: {{Oberriexingen est une ville allemande située dans le Bade-Wurtemberg, dans de l'arrondissement de Ludwigsbourg.}}
+{{a un type}} décrit le mieux la relation entre {{Oberriexingen}} et {{ville}}
+
+Déclaration: {{modifier Old Crow Medicine Show est un groupe américain d'americana et de musique country originaire de Nashville, Tennessee. Kevin Hayes Critter Fuqua Chance McCoy Ketch Secor Sur les autres projets Wikimedia :.}}
+{{organisation a pour membre}} décrit le mieux la relation entre {{Old Crow Medicine Show}} et {{Kevin Hayes}}
+
+Déclaration: {{Sir Joseph Paxton (né le 3 août 1803 à Milton Bryan, Bedfordshire, Royaume-Uni et mort le 8 juin 1865 dans le quartier de Sydenham de Londres) est un architecte et jardinier paysagiste britannique.}}
+{{lieu de naissance}} décrit le mieux la relation entre {{Joseph Paxton}} et {{Bedford}}
+
+Déclaration: {{modifier Ignazio Fiorillo (né à Naples le 11 mai 1715, mort en juin 1787 à Fritzlar) est un compositeur italien d'opéras.}}
+{{lieu de naissance}} décrit le mieux la relation entre {{Ignazio Fiorillo}} et {{Naples}}
+
+Déclaration: {{modifier David Newman est un scénariste américain, né le 4 février 1937 et mort le 27 juin 2003.}}
+{{a une occupation}} décrit le mieux la relation entre {{David Newman}} et {{scénariste}}
+
+
+
+Утверждение: {{Том Лерер () — американский композитор и певец, сатирик и математик.}}
+
+
+Какое отношение лучше всего описывает отношение между {{Том Лерер}} и {{математик}} из списка отношений, указанных выше?
+    

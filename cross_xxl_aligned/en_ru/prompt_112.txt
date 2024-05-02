@@ -1,0 +1,45 @@
+Consider a domain where only the following relations can exist between any two entities:
+
+{{has type}}
+{{no relation}}
+{{has education}}
+{{has population}}
+{{has genre}}
+{{has occupation}}
+{{organization has member}}
+{{event year}}
+
+Given the following examples,
+
+Statement: {{Tainan Airport (Chinese: 臺南機場; formally "臺南航空站") (IATA: TNN, ICAO: RCNN) is a commercial airport located in South District, Tainan, Taiwan. It is shared with Republic of China Air Force Tainan AFB.}}
+has-type best describes the relation between {{Tainan Airport}} and {{public}}
+
+Statement: {{Dilolo Airport is an airstrip serving the town of Dilolo in Katanga Province, Democratic Republic of the Congo.}}
+has-type best describes the relation between {{Dilolo Airport}} and {{public}}
+
+Statement: {{Grandes Canciones is a compilation album of Rata Blanca, published in 2000 by Tocka Discos, PopArt Music.}}
+has-type best describes the relation between {{Grandes Canciones}} and {{compilation}}
+
+Statement: {{Dave Laurion is a retired American ice hockey player and coach.}}
+has-type best describes the relation between {{Dave Laurion}} and {{coach}}
+
+Statement: {{A Camp is the solo side project of Nina Persson, vocalist for the Swedish indie pop band The Cardigans.}}
+org-has-member best describes the relation between {{A Camp}} and {{Nina Persson}}
+
+
+
+Given,
+По-русски {{has type}} означает {{имеет тип}}
+По-русски {{no relation}} означает {{нет отношения}}
+По-русски {{has education}} означает {{имеет образование}}
+По-русски {{has population}} означает {{имеет население}}
+По-русски {{has genre}} означает {{имеет жанр}}
+По-русски {{has occupation}} означает {{имеет профессию}}
+По-русски {{organization has member}} означает {{организация имеет члена}}
+По-русски {{event year}} означает {{год события}}
+
+Утверждение: {{Альдабра (, ) — атолл в Индийском океане, принадлежит государству Сейшелы, входит в группу островов Альдабра.}}
+
+
+Какое отношение лучше всего описывает отношение между {{Альдабра}} и {{остров}} из списка отношений, указанных выше?
+    

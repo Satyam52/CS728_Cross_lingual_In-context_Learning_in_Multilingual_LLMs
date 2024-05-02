@@ -1,0 +1,77 @@
+Considérez un domaine où seules les relations suivantes peuvent exister entre deux entités : 
+
+{{premier produit}}
+{{est membre de}}
+{{film réalisé par}}
+{{mettant en vedette}}
+{{a remporté un prix}}
+{{a une éducation}}
+{{organisation fondée par}}
+{{a pour enfant}}
+{{a un frère ou une sœur}}
+{{a une population}}
+{{est situé(e) à}}
+{{lieu de naissance}}
+{{aucune relation}}
+{{a un genre}}
+{{du pays}}
+{{a une occupation}}
+{{organisation a pour membre}}
+{{leader de l'organisation}}
+{{année de l'événement}}
+{{a un type}}
+{{a pour auteur}}
+{{a un parent}}
+{{siège social}}
+{{a un conjoint}}
+
+Étant donné les exemples suivants,
+
+Déclaration: {{modifier Jason LaBarbera (né le 18 janvier 1980 à Burnaby, province de la Colombie-Britannique au Canada) est un joueur professionnel canadien de hockey sur glace évoluant au poste de gardien de but.}}
+birth-place décrit le mieux la relation entre {{Jason LaBarbera}} et {{Burnaby}}
+
+Déclaration: {{modifier Lino DiSalvo est un animateur et réalisateur américain né le 5 juin 1974 à New York.}}
+has-occupation décrit le mieux la relation entre {{Lino DiSalvo}} et {{réalisateur}}
+
+Déclaration: {{El Cuá ou El Cuá-Bocay est une municipalité nicaraguayenne du département de Jinotega au Nicaragua.}}
+is-where décrit le mieux la relation entre {{El Cuá}} et {{Nicaragua}}
+
+Déclaration: {{Elle est Présidente-Directrice Générale d'Enterprise Holdings. Pamela Nicholson commence sa carrière chez Enterprise Rent-A-Car en 1981 en tant que stagiaire en gestion à Saint-Louis.}}
+has-occupation décrit le mieux la relation entre {{Pamela Nicholson}} et {{Président}}
+
+Déclaration: {{Jelle Van Damme est un footballeur international belge, né le 10 octobre 1983 à Lokeren.}}
+birth-place décrit le mieux la relation entre {{Jelle Van Damme}} et {{Lokeren}}
+
+
+
+Given,
+In English {{premier produit}} means {{first product}}
+In English {{est membre de}} means {{is member of}}
+In English {{film réalisé par}} means {{movie has director}}
+In English {{mettant en vedette}} means {{starring}}
+In English {{a remporté un prix}} means {{won award}}
+In English {{a une éducation}} means {{has education}}
+In English {{organisation fondée par}} means {{organization has founder}}
+In English {{a pour enfant}} means {{has child}}
+In English {{a un frère ou une sœur}} means {{has sibling}}
+In English {{a une population}} means {{has population}}
+In English {{est situé(e) à}} means {{located in}}
+In English {{lieu de naissance}} means {{birth place}}
+In English {{aucune relation}} means {{no relation}}
+In English {{a un genre}} means {{has genre}}
+In English {{du pays}} means {{from country}}
+In English {{a une occupation}} means {{has occupation}}
+In English {{organisation a pour membre}} means {{organization has member}}
+In English {{leader de l'organisation}} means {{organization leader}}
+In English {{année de l'événement}} means {{event year}}
+In English {{a un type}} means {{has type}}
+In English {{a pour auteur}} means {{has author}}
+In English {{a un parent}} means {{has parent}}
+In English {{siège social}} means {{headquarters}}
+In English {{a un conjoint}} means {{has spouse}}
+
+Statement: {{A Blow for Me, a Toot to You is a 1977 album by funk musician Fred Wesley and the Horny Horns featuring Maceo Parker.}}
+
+
+What relation best describes the relation between {{A Blow for Me, a Toot to You}} and {{funk music}} from the list of relations given above?
+    

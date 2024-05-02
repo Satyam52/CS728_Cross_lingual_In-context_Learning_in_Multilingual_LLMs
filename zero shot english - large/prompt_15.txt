@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{WOWF (102.5 FM, "102.5 WOW Country") is a radio station broadcasting a country music format. Licensed to Crossville, Tennessee, United States, the station is currently owned by Peg Broadcasting, LLC and features programming from Dial Global and Fox News Radio.}}.
+What is the most appropriate relation between {{WOWF}} and {{Tennessee}} from the following options?
+
+{{located in}}
+{{has population}}
+{{has parent}}
+{{from country}}
+{{movie has director}}
+{{won award}}
+{{has genre}}
+{{organization leader}}
+{{is member of}}
+{{first product}}
+{{no relation}}
+{{has occupation}}
+{{has education}}
+{{starring}}
+{{birth place}}
+{{has child}}
+{{has type}}
+{{organization has founder}}
+{{headquarters}}
+{{has sibling}}
+{{event year}}
+{{has author}}
+{{has spouse}}
+{{organization has member}}
+
+Please choose the most suitable option from the given choices.
+    

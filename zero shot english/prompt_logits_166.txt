@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{The main blood bank that became United Blood Services was founded in 1943 as the Salt River Valley Blood Bank in Phoenix, Arizona, by Opal Davis and Kitty Baldwin.}}.
+What is the most appropriate relation between {{United Blood Services}} and {{Opal Davis and Kitty Baldwin}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

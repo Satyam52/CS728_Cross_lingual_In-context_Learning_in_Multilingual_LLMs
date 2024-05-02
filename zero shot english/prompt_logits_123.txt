@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{George Gordon Hyde, KC (January 24, 1883 – July 20, 1946) was a Quebec (Canada) Provincial politician, and a prominent lawyer in the city of Montreal.}}.
+What is the most appropriate relation between {{George Gordon Hyde}} and {{Montreal}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

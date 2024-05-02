@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Nicolau dos Reis Lobato (24 May 1946 – 31 December 1978) was an East Timorese politician who is considered a national hero.}}.
+What is the most appropriate relation between {{Nicolau dos Reis Lobato}} and {{East Timor}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

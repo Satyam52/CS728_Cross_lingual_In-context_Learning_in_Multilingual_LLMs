@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Elia Rigotto (born 4 March 1982 in Vicenza) is an Italian former professional road bicycle racer.}}.
+What is the most appropriate relation between {{Elia Rigotto}} and {{Vicenza}} from the following options?
+
+{{from country}}
+{{birth place}}
+{{starring}}
+{{has population}}
+{{has spouse}}
+{{organization leader}}
+{{has author}}
+{{has child}}
+{{event year}}
+{{has occupation}}
+{{no relation}}
+{{movie has director}}
+{{won award}}
+{{first product}}
+{{has education}}
+{{has parent}}
+{{located in}}
+{{has sibling}}
+{{organization has member}}
+{{has genre}}
+{{is member of}}
+{{headquarters}}
+{{has type}}
+{{organization has founder}}
+
+Please choose the most suitable option from the given choices.
+    
+{{organization has founder}}

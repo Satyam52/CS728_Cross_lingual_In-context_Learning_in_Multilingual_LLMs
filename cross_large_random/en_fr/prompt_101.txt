@@ -1,0 +1,46 @@
+Consider a domain where only the following relations can exist between any two entities:
+
+{{has spouse}}
+{{event year}}
+{{has parent}}
+{{is member of}}
+{{movie has director}}
+{{has population}}
+{{headquarters}}
+{{has type}}
+{{from country}}
+{{has author}}
+{{has occupation}}
+{{organization has founder}}
+{{located in}}
+{{organization leader}}
+{{has education}}
+{{has genre}}
+{{birth place}}
+{{no relation}}
+{{organization has member}}
+
+Given the following examples,
+
+Statement: {{AOL began in 1983, as a short-lived venture called Control Video Corporation (or CVC), founded by William von Meister.}}
+{{organization has founder}} best describes the relation between {{Control Video Corporation}} and {{William von Meister}}
+
+Statement: {{Málaga Airport had the head office of Binter Binter Mediterraneo CN-235.}}
+{{headquarters}} best describes the relation between {{Binter Mediterraneo}} and {{Málaga}}
+
+Statement: {{Cendejas de la Torre is a municipality located in the province of Guadalajara, Castile-La Mancha, Spain. According to the 2004 census (INE), the municipality has a population of 69 inhabitants.}}
+{{has population}} best describes the relation between {{Cendejas de la Torre}} and {{69}}
+
+Statement: {{Lancaster High School is located in Lancaster, South Carolina, a small city approximately 35 miles from Charlotte, North Carolina.}}
+{{located in}} best describes the relation between {{Lancaster High School}} and {{Lancaster, South Carolina}}
+
+Statement: {{Agnes Monica Muljoto (born 1 July 1986), known professionally as Agnez Mo, is an Indonesian singer, songwriter, actress, performer, and dancer.}}
+{{from country}} best describes the relation between {{Agnez Mo}} and {{Indonesia}}
+
+
+
+Déclaration: {{Pa-Modou Kah est un ancien footballeur international norvégien né le 30 juillet 1980 à Banjul en Gambie.}}
+
+
+Quelle relation décrit le mieux la relation entre {{Pa-Modou Kah}} et {{Banjul}} à partir de la liste des relations données ci-dessus?
+    

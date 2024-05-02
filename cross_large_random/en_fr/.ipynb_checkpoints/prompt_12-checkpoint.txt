@@ -1,0 +1,50 @@
+
+Consider a domain where only the following relations can exist between any two entities:
+
+{{chef d'organisation}}
+has-parent
+{{l'organisation a un fondateur}}
+{{l'organisation a un membre}}
+{{a une éducation}}
+{{du pays}}
+has-genre
+{{est membre de}}
+{{le film a un réalisateur}}
+invented-by
+has-type
+{{année de l'événement}}
+{{a un auteur}}
+{{aucune relation}}
+{{a le type}}
+{{a un genre}}
+{{a un conjoint}}
+{{a une profession}}
+{{siège social}}
+{{lieu de naissance}}
+{{situé à}}
+{{a un parent}}
+
+Given the following examples,
+
+Statement: {{Punjabian Da King is a 2015 Punjabi Action Drama film directed by Manduip Singh and produced by Surender Singh Starring Navraj Hans, Keeya khanna, Bhanu Sri Mehra,Jarnail Singh,Shivendra Mahal, Bhottu Shah, Hobby Dhalliwal, Bunny & others.}}
+{{starring}} best describes the relation between {{Punjabian Da King}} and {{Navraj Hans}}
+
+Statement: {{Albert Mayer (December 29, 1897 – October 14, 1981), an American planner and architect.}}
+{{has-occupation}} best describes the relation between {{Albert Mayer}} and {{architect}}
+
+Statement: {{" Don't Ya " is a song co-written and recorded by American country music artist Brett Eldredge. It was released on October 8, 2012 as his third single overall and the second single from his debut studio album Bring You Back.}}
+{{has-type}} best describes the relation between {{Don't Ya}} and {{single}}
+
+Statement: {{Richard Martin Hooley (April 13, 1822 – September 8, 1893) was an American theatre manager, minstrelsy manager, and one of the earliest theatre managers in Chicago.}}
+{{has-nationality}} best describes the relation between {{Richard Martin Hooley}} and {{American}}
+
+Statement: {{Kentaro Kawasaki (川崎 健太郎, Kawasaki Kentaro, born December 18, 1982) is a former Japanese football player. Kawasaki was born in Osaka on December 18, 1982.}}
+{{birth-place}} best describes the relation between {{Kentaro Kawasaki}} and {{Osaka}}
+
+
+
+Déclaration: {{Marco Werner (né le 27 avril 1966 à Dortmund, Allemagne) est un pilote automobile allemand.}}
+
+
+Quelle relation décrit le mieux la relation entre {{Marco Werner}} et {{Dortmund}}
+    

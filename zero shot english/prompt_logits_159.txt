@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Wertheim & Co. was an investment firm founded in 1927 by Maurice Wertheim and Joseph Klingenstein, who met when they worked together at Hallgarten & Company.}}.
+What is the most appropriate relation between {{Wertheim & Co.}} and {{Maurice Wertheim}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

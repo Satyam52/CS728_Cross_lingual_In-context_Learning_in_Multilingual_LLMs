@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Kenelm Simon Digby Wingfield Digby (13 February 1910 – 22 March 1998) was a British Conservative politician. He was elected as Member of Parliament (MP) for West Dorset at a by-election in June 1941, and held the seat until his retirement at the February 1974 general election.}}.
+What is the most appropriate relation between {{Simon Digby}} and {{Dorset}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Front page of the first issue of O Heraldo O Heraldo is a century-old broadsheet English-language daily newspaper published from Panjim, the state-capital of the Indian state of Goa.}}.
+What is the most appropriate relation between {{O Heraldo}} and {{Panjim}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

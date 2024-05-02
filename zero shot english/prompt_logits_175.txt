@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{Thomas Flamank (died 27 June 1497) was a lawyer and former MP from Cornwall, who together with Michael An Gof led the Cornish Rebellion of 1497, a protest against taxes imposed by Henry VII of England.}}.
+What is the most appropriate relation between {{Thomas Flamank}} and {{Cornish}} from the following options?
+
+{{organization has member}}
+{{has sibling}}
+{{no relation}}
+{{from country}}
+{{has parent}}
+{{has spouse}}
+{{organization leader}}
+{{has child}}
+{{event year}}
+{{has population}}
+{{won award}}
+{{has genre}}
+{{organization has founder}}
+{{headquarters}}
+{{is member of}}
+{{first product}}
+{{has occupation}}
+{{movie has director}}
+{{has author}}
+{{starring}}
+{{has type}}
+{{located in}}
+{{birth place}}
+{{has education}}
+
+Please choose the most suitable option from the given choices.
+    
+{{has education}}

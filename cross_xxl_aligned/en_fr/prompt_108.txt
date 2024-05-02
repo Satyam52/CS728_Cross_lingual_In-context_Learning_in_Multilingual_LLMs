@@ -1,0 +1,67 @@
+Consider a domain where only the following relations can exist between any two entities:
+
+{{is member of}}
+{{movie has director}}
+{{has education}}
+{{organization has founder}}
+{{located in}}
+{{birth place}}
+{{no relation}}
+{{has genre}}
+{{from country}}
+{{has occupation}}
+{{organization has member}}
+{{organization leader}}
+{{event year}}
+{{has type}}
+{{has author}}
+{{has parent}}
+{{headquarters}}
+{{has nationality}}
+{{has spouse}}
+
+Given the following examples,
+
+Statement: {{Ernesto "Che" Guevara ( (CHAY gə-VAH-rə);Spanish: [ˈtʃe ɣeˈβaɾa] 14 June 1928 – 9 October 1967) was an Argentine Marxist revolutionary, physician, author, guerrilla leader, diplomat, and military theorist.}}
+has-nationality best describes the relation between {{Ernesto "Che" Guevara}} and {{Argentine}}
+
+Statement: {{Space Tug is a young adult science fiction novel by author Murray Leinster.}}
+has-author best describes the relation between {{Space Tug}} and {{Murray Leinster}}
+
+Statement: {{Gilbert Brown (born September 5, 1987) is an American professional basketball player for Hapoel Eilat of the Israeli Premier League.}}
+from-country best describes the relation between {{Gilbert Brown}} and {{American}}
+
+Statement: {{Amanda Hearst is the child of Anne Hearst, a niece of Patty Hearst, and a great-granddaughter of media mogul William Randolph Hearst.}}
+has-parent best describes the relation between {{Amanda Hearst}} and {{Anne Hearst}}
+
+Statement: {{Second Honeymoon is a novel written on the same pattern as Honeymoon, written by James Patterson and Howard Roughan in 2005.}}
+has-author best describes the relation between {{Second Honeymoon}} and {{James Patterson}}
+
+
+
+Given,
+En français, {{is member of}} signifie {{est membre de}}
+En français, {{movie has director}} signifie {{film réalisé par}}
+En français, {{has education}} signifie {{a une éducation}}
+En français, {{organization has founder}} signifie {{organisation fondée par}}
+En français, {{located in}} signifie {{est situé(e) à}}
+En français, {{birth place}} signifie {{lieu de naissance}}
+En français, {{no relation}} signifie {{aucune relation}}
+En français, {{has genre}} signifie {{a un genre}}
+En français, {{from country}} signifie {{du pays}}
+En français, {{has occupation}} signifie {{a une occupation}}
+En français, {{organization has member}} signifie {{organisation a pour membre}}
+En français, {{organization leader}} signifie {{leader de l'organisation}}
+En français, {{event year}} signifie {{année de l'événement}}
+En français, {{has type}} signifie {{a un type}}
+En français, {{has author}} signifie {{a pour auteur}}
+En français, {{has parent}} signifie {{a un parent}}
+En français, {{headquarters}} signifie {{siège social}}
+En français, {{has nationality}} signifie {{a une nationalité}}
+En français, {{has spouse}} signifie {{a un conjoint}}
+
+Déclaration: {{modifier Blaqk Audio est un groupe de musique électronique, originaire d'Oakland, en Californie, formé en 2001 par Davey Havok et Jade Puget, actuellement membres du groupe AFI.}}
+
+
+Quelle relation décrit le mieux la relation entre {{Blaqk Audio}} et {{Davey Havok}} à partir de la liste des relations données ci-dessus?
+    

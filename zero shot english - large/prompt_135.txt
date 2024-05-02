@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{"Everytime We Touch" is a song performed by the German techno and Eurodance trio Cascada, taken from their 2006 debut album of the same name.}}.
+What is the most appropriate relation between {{Everytime We Touch}} and {{Eurodance}} from the following options?
+
+{{located in}}
+{{has population}}
+{{has parent}}
+{{from country}}
+{{movie has director}}
+{{won award}}
+{{has genre}}
+{{organization leader}}
+{{is member of}}
+{{first product}}
+{{no relation}}
+{{has occupation}}
+{{has education}}
+{{starring}}
+{{birth place}}
+{{has child}}
+{{has type}}
+{{organization has founder}}
+{{headquarters}}
+{{has sibling}}
+{{event year}}
+{{has author}}
+{{has spouse}}
+{{organization has member}}
+
+Please choose the most suitable option from the given choices.
+    

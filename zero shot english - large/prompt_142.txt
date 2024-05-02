@@ -1,0 +1,31 @@
+
+Consider the following statement as truth: {{The Immortal Heart (German: Das Unsterbliche Herz) is a 1939 German drama film directed by Veit Harlan and starring Heinrich George.}}.
+What is the most appropriate relation between {{The Immortal Heart}} and {{Veit Harlan}} from the following options?
+
+{{located in}}
+{{has population}}
+{{has parent}}
+{{from country}}
+{{movie has director}}
+{{won award}}
+{{has genre}}
+{{organization leader}}
+{{is member of}}
+{{first product}}
+{{no relation}}
+{{has occupation}}
+{{has education}}
+{{starring}}
+{{birth place}}
+{{has child}}
+{{has type}}
+{{organization has founder}}
+{{headquarters}}
+{{has sibling}}
+{{event year}}
+{{has author}}
+{{has spouse}}
+{{organization has member}}
+
+Please choose the most suitable option from the given choices.
+    

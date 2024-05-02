@@ -1,0 +1,25 @@
+
+Considérez l'énoncé suivant comme vérité : {{Albums de Pendulum In Silico(2008) The Reworks(2018) modifier Immersion est le 3e album du groupe australien de drum and bass Pendulum.}}.
+Quelle est la relation la plus appropriée entre {{Immersion}} et {{album}} parmi les options suivantes ?
+
+{{a un parent}}
+{{a un conjoint}}
+{{a un auteur}}
+{{l'organisation a un membre}}
+{{année de l'événement}}
+{{est membre de}}
+{{le film a un réalisateur}}
+{{lieu de naissance}}
+{{du pays}}
+{{a une éducation}}
+{{chef d'organisation}}
+{{aucune relation}}
+{{a le type}}
+{{situé à}}
+{{l'organisation a un fondateur}}
+{{siège social}}
+{{a un genre}}
+{{a une profession}}
+
+Veuillez choisir l'option la plus appropriée parmi les choix donnés
+    

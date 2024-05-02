@@ -1,0 +1,25 @@
+
+Considérez l'énoncé suivant comme vérité : {{modifier - modifier le code - voir Wikidata (aide) Geany est un éditeur de texte léger utilisant GTK+ et Scintilla et incluant les fonctions élémentaires d'un environnement de développement intégré.}}.
+Quelle est la relation la plus appropriée entre {{Geany}} et {{environnement de développement intégré}} parmi les options suivantes ?
+
+{{a un parent}}
+{{a un conjoint}}
+{{a un auteur}}
+{{l'organisation a un membre}}
+{{année de l'événement}}
+{{est membre de}}
+{{le film a un réalisateur}}
+{{lieu de naissance}}
+{{du pays}}
+{{a une éducation}}
+{{chef d'organisation}}
+{{aucune relation}}
+{{a le type}}
+{{situé à}}
+{{l'organisation a un fondateur}}
+{{siège social}}
+{{a un genre}}
+{{a une profession}}
+
+Veuillez choisir l'option la plus appropriée parmi les choix donnés
+    

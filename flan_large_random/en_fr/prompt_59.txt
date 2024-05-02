@@ -1,0 +1,45 @@
+Consider a domain where only the following relations can exist between any two entities:
+
+{{has spouse}}
+{{event year}}
+{{organization has member}}
+{{organization leader}}
+{{located in}}
+{{is member of}}
+{{organization has founder}}
+{{no relation}}
+{{has education}}
+{{has parent}}
+{{has author}}
+{{has genre}}
+{{movie has director}}
+{{headquarters}}
+{{from country}}
+{{birth place}}
+{{has type}}
+{{has occupation}}
+
+Given the following examples,
+
+Statement: {{The St. Francis School of Law is an online law school based in Newport Beach, California.}}
+{{located in}} best describes the relation between {{St. Francis School of Law}} and {{Newport Beach, California}}
+
+Statement: {{María Luisa Larraga Cacho (born December 10, 1970 in Zaragoza) is a Spanish runner who specializes in the 10,000 metres.}}
+{{birth place}} best describes the relation between {{María Luisa Larraga}} and {{Zaragoza}}
+
+Statement: {{Kingston also introduced ValueRAM, which was a high-quality, low-cost memory designed for system integrators to use in white box systems.}}
+{{no relation}} best describes the relation between {{Kingston}} and {{ValueRAM}}
+
+Statement: {{Scott Page is an American musician, technologist, and entrepreneur known for his saxophone and rhythm guitar work with Pink Floyd, Supertramp, and Toto.}}
+{{is member of}} best describes the relation between {{Scott Page}} and {{Pink Floyd}}
+
+Statement: {{Jamolice () is a village and municipality (obec) in Znojmo District in the South Moravian Region of the Czech Republic.}}
+{{located in}} best describes the relation between {{Jamolice}} and {{Czech Republic}}
+
+
+
+Déclaration: {{Abraham Jacobi (6 mai 1830 à Hille - 10 juillet 1919 à Lake George) est un médecin d’origine allemande, pionnier de la pédiatrie américaine.}}
+
+
+Quelle relation décrit le mieux la relation entre {{Abraham Jacobi}} et {{Hille}} à partir de la liste des relations données ci-dessus?
+    

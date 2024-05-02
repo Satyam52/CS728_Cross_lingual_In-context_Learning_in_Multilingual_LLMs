@@ -1,0 +1,36 @@
+Consider a domain where only the following relations can exist between any two entities:
+
+{{event year}}
+{{has population}}
+{{located in}}
+{{has education}}
+{{has genre}}
+{{no relation}}
+{{organization has member}}
+{{has type}}
+{{has occupation}}
+
+Given the following examples,
+
+Statement: {{Donji Miholjac (Hungarian: Alsómiholjác, German: Unter-Miholtz) is a town in the Slavonia region of Croatia, on the river Drava and the border with Hungary.}}
+{{located in}} best describes the relation between {{Donji Miholjac}} and {{Croatia}}
+
+Statement: {{Derrick Starks (born November 27, 1970) is an American gospel musician and organist.}}
+{{has occupation}} best describes the relation between {{Derrick Starks}} and {{organist}}
+
+Statement: {{Diman Regional Vocational Technical High School is a public vocational high school located in Fall River, Massachusetts.}}
+{{located in}} best describes the relation between {{Diman Regional Vocational Technical High School}} and {{Fall River, Massachusetts}}
+
+Statement: {{Hans Knöll (January 7, 1913 & ndash; June 26, 1978) was a German physician and microbiologist.}}
+{{has occupation}} best describes the relation between {{Hans Knöll}} and {{microbiologist}}
+
+Statement: {{Dark New Day (formerly known as Dark Blue) was an American hard rock supergroup formed in 2004 featuring Brett Hestla of Virgos Merlot, Clint Lowery of Sevendust, Troy McLawhorn of DoubleDrive, Corey Lowery of Stereomud and Stuck Mojo, and Will Hunt of Skrape.}}
+{{organization has member}} best describes the relation between {{Dark New Day}} and {{Brett Hestla}}
+
+
+
+Утверждение: {{3 февраля 1944, Воркута) — советский и российский сценарист, кинорежиссёр и педагог. Александр Бородянский родился в Воркуте, Коми АССР (ныне Республика Коми России).}}
+
+
+Какое отношение лучше всего описывает отношение между {{Александр Бородянский}} и {{сценарист}} из списка отношений, указанных выше?
+    

@@ -1,0 +1,32 @@
+
+Consider the following statement as truth: {{North West Coastal Highway is a generally north-south Western Australian highway which links the coastal city of Geraldton with the town of Port Hedland.}}.
+What is the most appropriate relation between {{North West Coastal Highway}} and {{highway}} from the following options?
+
+{{from country}}
+{{birth place}}
+{{starring}}
+{{has population}}
+{{has spouse}}
+{{organization leader}}
+{{has author}}
+{{has child}}
+{{event year}}
+{{has occupation}}
+{{no relation}}
+{{movie has director}}
+{{won award}}
+{{first product}}
+{{has education}}
+{{has parent}}
+{{located in}}
+{{has sibling}}
+{{organization has member}}
+{{has genre}}
+{{is member of}}
+{{headquarters}}
+{{has type}}
+{{organization has founder}}
+
+Please choose the most suitable option from the given choices.
+    
+{{organization has founder}}
